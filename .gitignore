@@ -1,0 +1,19 @@
+
+config.inc.php
+
+# ignore cache files
+cache/*
+sources/*/cache/*
+
+# ignore cookies
+sources/*/cookie.txt
+
+# ignore logs
+sources/*/*.log
+
+# ignore data
+sources/*/*.json
+
+
+#svn
+.svn*
