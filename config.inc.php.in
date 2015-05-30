@@ -25,8 +25,8 @@ $config['db_name'] 	    = '';
 $config['proxy_name'] 	= '';
 $config['proxy_port'] 	= '';
 
-$config['proxy_name'] 	= 'wwwcache.gla.ac.uk';
-$config['proxy_port'] 	= '8080';
+//$config['proxy_name'] 	= 'wwwcache.gla.ac.uk';
+//$config['proxy_port'] 	= '8080';
 
 // LSID cache--------------------------------------------------------------------------------------- 
 $config['cache_dir'] = dirname(__FILE__) . '/cache';
