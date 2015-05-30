@@ -204,7 +204,14 @@ class OaiHarvester
 			
 			if (isset($obj->id))
 			{
+				// save JSON
 				file_put_contents($this->cache_dir . '/' . $obj->id . '.json', json_format(json_encode($obj)));
+				
+				// save XML
+				file_put_contents($this->cache_dir . '/' . $obj->id . '.xml', $dom->saveXML($record));
+				exit();
+				
+				
 			}
 			
 			$this->count++;
