@@ -293,6 +293,26 @@ tbody{
 
     <!-- figure -->
     <xsl:template match="fig">
+    	<div style="border:1px solid rgb(228,228,228);padding:10px;width:320px;text-align:center;">
+					<img>
+						<xsl:attribute name="src">
+							<xsl:value-of select="$path" />
+							<xsl:text>/</xsl:text>
+							<xsl:value-of select="graphic/@xlink:href" />
+							<xsl:text>.jpg</xsl:text>
+						</xsl:attribute>
+						<xsl:attribute name="width">
+							<xsl:text>300</xsl:text>
+						</xsl:attribute>
+					</img>    	
+    	</div>
+    	<div style="clear:both;" />
+    	<div style="border:1px solid rgb(228,228,228);padding:10px;margin-top:10px;">
+    		<xsl:apply-templates />
+    	</div>
+    </xsl:template>
+    
+    <!--
 		<table width="100%" cellspacing="10">
 			<tr>
 				<td width="346">
@@ -313,7 +333,7 @@ tbody{
 				</td>
 			</tr>
 		</table>
-	</xsl:template>
+	-->
 <!--
 <fig id="F2" position="float" orientation="portrait">
 
