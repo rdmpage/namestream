@@ -9,7 +9,11 @@ function get_doi_metadata($doi)
 {
 	$reference = null;
 	
+	// CrossRef-only DOIs
 	$url = 'http://data.crossref.org/' . $doi;
+	
+	// DOIs
+	$url = 'http://dx.doi.org/' . $doi;
 	$json = get($url, "", "application/citeproc+json;q=1.0");
 
 	if ($json == '')

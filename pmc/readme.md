@@ -13,3 +13,9 @@ xsltproc --stringparam path 12/24/Stud_Mycol_2014_Mar_15_77\(1\)_1-143 pmc.xsl 1
 xsltproc --stringparam path e1/3e/Zookeys_2012_May_21_\(196\)_1-10 pmc.xsl e1/3e/Zookeys_2012_May_21_\(196\)_1-10/ZooKeys-196-001.nxml
 
 xsltproc --stringparam path  8a/41/PLoS_One_2013_May_22_8\(5\)_e63616 pmc.xsl 8a/41/PLoS_One_2013_May_22_8\(5\)_e63616/pone.0063616.nxml
+
+## Embedding images
+
+Instead of linking to external images, we could encode bitmaps in base64, see http://stackoverflow.com/questions/6249664/does-svg-support-embedding-of-bitmap-images
+
+To experiment with base64 encoding, try images at http://www.base64-image.de/step-1.php?m=1

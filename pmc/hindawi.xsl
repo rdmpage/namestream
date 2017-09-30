@@ -242,6 +242,10 @@ tbody{
     <xsl:template match="italic"><i><xsl:apply-templates /></i></xsl:template>
     <xsl:template match="bold"><b><xsl:apply-templates /></b></xsl:template>
     
+    <!-- term highlighting -->
+    <xsl:template match="term"><span style="background-color:purple;color:white;font-weight:bold;"><xsl:apply-templates /></span></xsl:template>
+    
+    
     <!-- citations -->
     <xsl:template match="xref">
     	<xsl:choose>

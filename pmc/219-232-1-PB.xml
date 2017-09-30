@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN"
+                         "journalpublishing3.dtd">
+<article article-type="research-article" dtd-version="3.0" xml:lang="es"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">COLLECTANEA BOTANICA</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="es">Collectanea Botánica</journal-title>
+                <abbrev-journal-title xml:lang="es">collectbot</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">0010-0730</issn>
+            <publisher>
+                <publisher-name>Consejo Superior de Investigaciones Científicas</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">collectbot.2013.v33.002</article-id>
+            <article-id pub-id-type="doi">10.3989/collectbot.2013.v33.002</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>ARTÍCULO</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Gutierrezia mendocina (Asteraceae, Astereae), a new South American species</article-title>
+                <trans-title-group xml:lang="es">
+                    <trans-title>Gutierrezia mendocina (Asteraceae, Astereae), una nueva especie sudamericana</trans-title>
+                </trans-title-group>
+                <alt-title alt-title-type="running-head">Gutierrezia mendocina (Asteraceae, Astereae), a new South American species</alt-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes"
+                    xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <name name-style="western">
+                        <surname>RATTO</surname>
+                        <given-names>F.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="U1"/>
+                </contrib>
+                <aff id="U1">Cátedra de Botánica Sistemática, Facultad de Agronomía, Universidad de Buenos Aires, av. San Martín, 4453, AR-C1417DSE Buenos Aires, Argentina</aff>
+            </contrib-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes"
+                    xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <name name-style="western">
+                        <surname>BARTOLI</surname>
+                        <given-names>A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="U2"/>
+                </contrib>
+                <aff id="U2">Cátedra de Botánica Sistemática, Facultad de Agronomía, Universidad de Buenos Aires, av. San Martín, 4453, AR-C1417DSE Buenos Aires, Argentina</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="cor1">email:<email
+                        xlink:href="ratto@agro.uba.ar"
+                        xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">ratto@agro.uba.ar
+</email>
+                </corresp>
+                <corresp id="cor2">email:<email
+                        xlink:href="cbartoli@agro.uba.ar"
+                        xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">cbartoli@agro.uba.ar
+</email>
+                </corresp>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>30</day>
+                <month>08</month>
+                <year>2014</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+                <year>2014</year>
+            </pub-date>
+            <volume>33</volume>
+            <elocation-id content-type="doi">10.3989/collectbot.2013.v33.002</elocation-id>
+            <history>
+                <date date-type="received">
+                    <day>26</day>
+                    <month>12</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>24</day>
+                    <month>04</month>
+                    <year>2014</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>© 2014 CSIC</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license license-type="open-access"
+                    xlink:href="http://creativecommons.org/licenses/by-nc/3.0/"
+                    xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <license-p>Este es un artículo de acceso abierto distribuido bajo los términos de la licencia Creative Commons Attribution-Non Commercial (by-nc) Spain 3.0.</license-p>
+                </license>
+            </permissions>
+            <abstract xml:lang="EN">
+                <title>ABSTRACT</title>
+                <p>
+                    <italic>Gutierrezia mendocina </italic>(Asteraceae, Astereae), a new South American species.— A taxonomic revision of the South American species of <italic>Gutierrezia</italic> has revealed a new species from Argentina, characterised by its stems with the base prostrate and rooting, turbinate heads and white ray florets. This species, found in the Department of Tunuyán of Mendoza Province (Argentina), is described and illustrated and a key to differentiate it from allied species is given.</p>
+            </abstract>
+            <trans-abstract xml:lang="en">
+                <title>RESUMEN</title>
+                <p>
+                    <italic>Gutierrezia mendocina (Asteraceae</italic>, <italic>Astereae</italic>), una nueva especie sudamericana.— En el marco de la revisión taxonómica del género <italic>Gutierrezia</italic> para Sudamérica fue hallada una nueva especie de Argentina, caracterizada por sus tallos con la porción basal postrada, enraizante en los nudos, capítulos con involucro turbinado y flores liguladas blancas. Se describe e ilustra la especie encontrada en el Departamento de Tunuyán de la Provincia de Mendoza (Argentina), y se incluye una clave para diferenciarla de las especies afines. 
+
+ </p>
+            </trans-abstract>
+            <kwd-group xml:lang="en">
+                <title>Key words</title>
+                <kwd>Argentina</kwd>
+                <kwd>Gutierrezia</kwd>
+                <kwd>Mendoza</kwd>
+            </kwd-group>
+            <kwd-group xml:lang="es">
+                <title>PALABRAS CLAVE</title>
+                <kwd>Argentina</kwd>
+                <kwd>Gutierrezia</kwd>
+                <kwd>Mendoza</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec id="S1">
+            <title>INTRODUCTION</title>
+            <p>
+
+                <italic>Gutierrezia</italic> Lag. is a New World xerophytic genus of the tribe Asteraeae, subtribe Solidagininae (Funk <italic>et al</italic>., <xref
+                    ref-type="bibr"
+                    rid="CIT02">2009</xref>). It is present in North America, where 18 species are recognised (Nesom, <xref
+                    ref-type="bibr"
+                    rid="CIT03">2006</xref>), it does not occur in Central America, but reappears in southern South America with <italic>ca</italic>. 13 species, of which one was recognised in Bolivia and has been collected in La Paz and Santa Cruz Provinces (Solbrig, <xref
+                    ref-type="bibr"
+                    rid="CIT06">1966</xref>); and finally six in Chile where they inhabit in the regions Metropolitana, I, II, II, IV, V, VI, XI and XII (Zuloaga <italic>et al</italic>., <xref
+                    ref-type="bibr"
+                    rid="CIT07">2008</xref>). In Argentina, according to Zuloaga <italic>et al</italic>. (<xref
+                    ref-type="bibr" rid="CIT07">2008</xref>), the genus <italic>Gutierrezia </italic>grows from Jujuy to Territorio Nacional de Tierra del Fuego and is represented by eight species, six of which are endemic to this country . </p>
+
+            <p>The South American species were monographed by Solbrig (<xref
+                    ref-type="bibr"
+                    rid="CIT06">1966</xref>), who recognized 11 species, of which six inhabit Argentina with five being endemic. More recently, Sancho &amp; Ariza Espinar (<xref
+                    ref-type="bibr"
+                    rid="CIT05">2003</xref>) published a floristic survey of Argentina where eight species are described, of which six are endemic. Recently, Sancho (<xref
+                    ref-type="bibr"
+                    rid="CIT04">2013</xref>) cited two species for the province of San Juan. However, since Solbrig (<xref
+                    ref-type="bibr" rid="CIT06">1966</xref>) there has not been a further taxonomic revision of the genus <italic>Gutierrezia</italic>. </p>
+            <p>During the revision of the genus <italic>Gutierrezia</italic> we found one herbarium specimen collected by O. Boelcke in 1963 in western Argentina, near Mendoza city (Boelcke 10082, BAA). It was quite different from other South American species by its stems prostrate and rooting at the base, the shape of the leaves (the inferior elliptic-spathulate and the superior linear-elliptic), the turbinate involucre, and longer lamina of the ray florets, which are white in colour. A member of the team (F. Ratto) went to the original site of collection in the Department of Tunuyán (Mendoza Province) and found two populations of this species, all in a small area near Puesto de Gendarmería Alférez Portinari.</p>
+        </sec>
+        <!--final seccion S1-->
+        <sec id="S2">
+            <title>RESULTS</title>
+            <p>
+                <bold>
+                    <italic>Gutierrezia mendocina</italic>
+
+                </bold> Ratto &amp; Adr. Bartoli, <bold>sp. nov.</bold> (<xref
+                    ref-type="fig" rid="F0001">Figs. 1</xref> and <xref
+                    ref-type="fig" rid="F0002">2</xref>).</p>
+            <p>
+                <italic>Inter species australibus Gutierreziae ligulis albis basi caulium repenti, foliis dimorphis, capitulis pedunculatis involucro turbinato 5–7 mm alto ligulis 5–6 mm differt.</italic>
+            </p>
+            <p>
+                <italic>Type</italic>: Argentina, Mendoza: Dept. Tunuyán, Puesto de Gendarmería Alférez Portinari, 33º 36.40′ S, 69º 27.70′ W, 2167 m, 12.01.2011, <italic>F. Ratto, F. Marzaro &amp; M. Bello 47</italic> (holotype: BAA; isotypes BAA, BC, CTES, SI).</p>
+            <p>Subshrubs 15–40 cm, much branched at the base. Stems erect, ribbed, glandular, leafy at the base and loosely foliaceous to the apex, with their base prostrate and rooting, Leaves subcoriaceous, sessile, 3–nerved, irregularly toothed at margin, with stipitate glandular trichomes and sessile glandular trichomes in pits on both blade surfaces; basal leaves elliptic–spathulate 15–22 × 3–4 mm, acute or semiobtuse; cauline leaves linear–elliptic 18–22 × 2–3 mm, acute. Heads radiate, heterogamous, pedunculate, 1–1.2 cm diam., arranged in corymbiform cymes at stem apex; peduncles 5–20 mm, with 1 or 2 linear-elliptic bracts 3–5 mm long. Involucre turbinate, resinous, 5–7 mm × 3–5 mm. Receptacle flat or slightly convex, naked, pitted, pilose. Phyllaries in 3 graduated series, outer phyllaries oblong, glandular, acuminate, inner phyllaries narrowly obovate, apiculate. Ray florets 4 to 9, pistillate, with lamina white, narrowly obovate, 6–7 mm long.; style with branches linear-elliptic, apex obtuse, papilose. Disk florets 8 to 11, perfect, with corolla yellowish, 3–4 mm, tubular, with an abruptly ampliate throat. Anthers rounded at the base; apex of connective ovate to ovate elliptic; style branches elliptic, acute, with sweeping papillose trichomes on the outer side. Achenes grey, turbinate, densely sericeous; pappus of 14–16 linear-elliptic erose-margined scales, <italic>ca</italic>. 1 mm long. in ray florets and 2–2.5 mm long. in disk florets.</p>
+            <!-- FIGURA 1 -->
+            <fig id="F0001" orientation="portrait" position="float">
+                <label>Figure 1</label>
+                <caption>
+                    <title>
+                        <italic>Gutierrezia mendocina</italic>: (A), detail of leaf surface showing glandular trichomes and toothed margin; (B), cauline leaf; (C), basal leaf; (D), plant; (E), head; (F), outer phyllary; (G), inner phyllary; (H), disk floret; (I), ray floret.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                    xlink:href="../images/F1.jpg" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            </fig>
+            <!-- FIGURA 2 -->
+            <fig id="F0002" orientation="portrait" position="float">
+                <label>Figure 2</label>
+                <caption>
+                    <title>Holotype of <italic>Gutierrezia mendocina</italic> kept at BAA</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                    xlink:href="../images/F2.jpg" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            </fig>
+            <p>
+                <italic>Etymology</italic>: The specific epithet refers to the Argentine province where it has been collected.</p>
+            <p>
+                <italic>Additional specimens examined</italic>: Argentina, Mendoza: Dept. Tunuyán, Puesto de Gendarmería Alférez Portinari, Cascada de la Vieja, 10.01.1963, <italic>Boelcke</italic>
+                <italic>10082</italic> (BAA); Dept. Tunuyán, camino al Puesto de Gendarmería Alférez Portinari, 12.01.2011, <italic>Ratto, Marzaro &amp; Bello 52</italic> (BAA).</p>
+            <p>
+                <italic>Phenology</italic>: <italic>Gutierrezia mendocina</italic> has been collected in flower in January; it was found in full bloom.</p>
+            <p>
+
+                <italic>Distribution and habitat</italic>: <italic>Gutierrezia mendocina</italic> has only been collected in the Department of Tunuyán in Mendoza Province (Argentina). This species inhabits the transition of phytogeographical province of the Monte belonging to the Domain Chaco and phytogeographical province of Patagonia of the Domain “Andino-Patagónico” (Cabrera, <xref
+                    ref-type="bibr"
+                    rid="CIT01">1971</xref>). This area, whose characteristic vegetation is a xerophytic steppe, has a relatively low mean annual precipitation, from 80 to 270 mm. Mean annual temperature varies from 13°C to 17°C (Cabrera, <xref
+                    ref-type="bibr"
+                    rid="CIT01">1971</xref>). <italic>Gutierrezia mendocina</italic> grows on rocky hillsides (<xref
+                    ref-type="fig" rid="F0003">Figs. 3</xref> and <xref
+                    ref-type="fig" rid="F0004">4</xref>), orientated towards the north, at about 2100 m in scattered populations and is associated with <italic>Larrea</italic> Cav., <italic>Cassia</italic> L., <italic>Chuquiraga</italic> Juss., <italic>Grindelia</italic> Willd., <italic>Prosopis</italic> L. and <italic>Junellia</italic> Moldenke. </p>
+            <!-- FIGURA 3 -->
+            <fig id="F0003" orientation="portrait" position="float">
+                <label>Figure 3</label>
+                <caption>
+                    <title>General view of type locality of <italic>Gutierrezia mendocina.</italic> In the background, the Cordillera de los Andes.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                    xlink:href="../images/F3.jpg" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            </fig>
+            <!-- FIGURA 4 -->
+            <fig id="F0004" orientation="portrait" position="float">
+                <label>Figure 4</label>
+                <caption>
+                    <title>
+                        <italic>Gutierrezia mendocina</italic>, habit.</title>
+                </caption>
+                <graphic orientation="portrait" position="float"
+                    xlink:href="../images/F4.jpg" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            </fig>
+            <p>Due to the scattered populations all having been found in a small area near Puesto de Gendarmería Alférez Portinari, this species could be considered endangered. However, this is subject to further exploration in the area.</p>
+            <p>
+                <italic>Taxonomic position</italic>: <italic>Gutierrezia mendocina</italic> is akin to <italic>G. spathulata</italic> (Phil.) Kurtz also from Mendoza province and <italic>G. taltalensis</italic> Phil. from the north of Chile due to its prostrate habit and the head grouped in corymbiform cymes and it also shares white ray florets with <italic>G. taltalensis</italic>. However, the new species can be distinguished from <italic>G. spathulata</italic> and <italic>G. taltalensis</italic> by its stems rooting at nodes and dimorphic leaves.</p>
+            <p>
+                <bold>Key to allied species to <italic>Gutierrezia Mendocina</italic>
+                </bold>
+            </p>
+            <p>
+                <bold>1.</bold> Stems leafy to the apex. All leaves linear-elliptic. Heads arranged in dense corymbiform cymes </p>
+            <p>......<bold>1. <italic>G. taltalensis</italic>
+                </bold>
+            </p>
+            <p>
+                <bold>-.</bold> Stems not leafy. All leaves spathulate or only at base. Heads clustered in lax corymbiform cymes </p>
+            <p>......<bold>2</bold>
+            </p>
+            <p>
+                <bold>2.</bold> Stems rooting. Basal leaves spathulate and cauline leaves linear-elliptic. Involucre turbinate. Ray florets white with lamina 6–7 mm long </p>
+            <p>......<bold>2. </bold>
+                <bold>
+                    <italic>G. mendocina</italic>
+                </bold>
+            </p>
+            <p>
+                <bold>-.</bold> Stems not rooting. Basal and superior leaves spathulate. Involucre cylindric-campanulate or broadly-campanulate. Ray florets yellow with lamina 3–5.5 mm long</p>
+            <p>......<bold>3. </bold>
+                <bold>
+                    <italic>G. spathulata</italic>
+                </bold>
+            </p>
+        </sec>
+        <!--final seccion S2-->
+    </body>
+    <back>
+        <ack>
+            <title>ACKNOWLEDGEMENTS</title>
+            <p>The authors gratefully acknowledge the support provided by the Universidad de Buenos Aires and Consejo Nacional de Investigaciones Científicas y Técnicas, Argentina. We also thank R. D. Tortosa for reviewing the manuscript, the artist F. Rojas for his drawings, A. Susanna for his accurate editorial work and two anonymous reviewers for helpful comments.</p>
+        </ack>
+        <ref-list>
+            <title>REFERENCES</title>
+            <ref id="CIT01">
+                <element-citation publication-type="journal"
+                    xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                            <surname>Cabrera</surname>
+                            <given-names>A. L.</given-names>
+                        </name>
+                    </person-group>
+                    <year>1971</year>
+                    <article-title>Fitogeografía de la República Argentina</article-title>
+                    <source>Boletín de la Sociedad Argentina de Botánica</source>
+                    <issue>14</issue>
+                    <fpage>1</fpage>
+                    <lpage>42</lpage>
+                </element-citation>
+            </ref>
+            <ref id="CIT02">
+                <element-citation publication-type="book"
+                    xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                            <surname>Funk</surname>
+                            <given-names>V. A.</given-names>
+                        </name>
+                        <name name-style="western">
+                            <surname>Susanna</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name name-style="western">
+                            <surname>Stuessy</surname>
+                            <given-names>T. F.</given-names>
+                        </name>
+                        <name name-style="western">
+                            <surname>Robinson</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                    </person-group>
+                    <year>2009</year>
+                    <chapter-title>Classification of Compositae</chapter-title>
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                            <surname>Funk</surname>
+                            <given-names>V. A.</given-names>
+                        </name>
+                        <name name-style="western">
+                            <surname>Susanna</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name name-style="western">
+                            <surname>Stuessy</surname>
+                            <given-names>T. F.</given-names>
+                        </name>
+                        <name name-style="western">
+                            <surname>Bayer</surname>
+                            <given-names>R. J.</given-names>
+                        </name>
+                    </person-group>
+                    <source>Systematics, evolution and biogeography of Compositae</source>
+                    <publisher-name>IAPT</publisher-name>
+                    <publisher-loc>Vienna</publisher-loc>
+                    <fpage>171</fpage>
+                    <lpage>189</lpage>
+                </element-citation>
+            </ref>
+            <ref id="CIT03">
+                <element-citation publication-type="book"
+                    xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                            <surname>Nesom</surname>
+                            <given-names>G. L.</given-names>
+                        </name>
+                    </person-group>
+                    <year>2006</year>
+                    <chapter-title>Grindelia</chapter-title>
+                    <person-group person-group-type="editor">
+                        <collab xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">Flora of North America Editorial Committee</collab>
+                    </person-group>
+                    <source>Flora of North America North of Mexico</source>
+                    <volume>20</volume>
+                    <publisher-name>Oxford University Press</publisher-name>
+                    <publisher-loc>Oxford</publisher-loc>
+                    <fpage>424</fpage>
+                    <lpage>436</lpage>
+                </element-citation>
+            </ref>
+            <ref id="CIT04">
+                <element-citation publication-type="book"
+                    xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                            <surname>Sancho</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                    </person-group>
+                    <year>2013</year>
+                    <chapter-title>Gutierrezia</chapter-title>
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                            <surname>Ariza Espinar</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                        <name name-style="western">
+                            <surname>Freire</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                    </person-group>
+                    <source>Flora de San Juan</source>
+                    <volume>3b</volume>
+                    <publisher-name>Fundación ArgenINTA</publisher-name>
+                    <publisher-loc>Mendoza</publisher-loc>
+                    <fpage>199</fpage>
+                    <lpage>200</lpage>
+                </element-citation>
+            </ref>
+            <ref id="CIT05">
+                <element-citation publication-type="book"
+                    xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                            <surname>Sancho</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name name-style="western">
+                            <surname>Ariza Espinar</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                    </person-group>
+                    <year>2003</year>
+                    <chapter-title>Asteraceae. Tribu III. Astereae, parte B. Subtribus Bellidinae, Asterinae (excepto Grindelia y Haplopappus)</chapter-title>
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                            <surname>Hunziker</surname>
+                            <given-names>A.T.</given-names>
+                        </name>
+                    </person-group>
+                    <source>Flora Fanerogámica Argentina</source>
+                    <volume>81</volume>
+                    <publisher-name>Consejo Nacional de Investigaciones Científicas y Técnicas</publisher-name>
+                    <publisher-loc>Córdoba</publisher-loc>
+                    <page-range>3-42, 54-58, 64-102</page-range>
+                </element-citation>
+            </ref>
+            <ref id="CIT06">
+                <element-citation publication-type="journal"
+                    xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                            <surname>Solbrig</surname>
+                            <given-names>O.</given-names>
+                        </name>
+                    </person-group>
+                    <year>1966</year>
+                    <article-title>The South American species of Gutierrezia</article-title>
+                    <source>Contributions from the Gray Herbarium </source>
+                    <issue>197</issue>
+                    <fpage>3</fpage>
+                    <lpage>42</lpage>
+                </element-citation>
+            </ref>
+            <ref id="CIT07">
+                <element-citation publication-type="book"
+                    xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                            <surname>Zuloaga</surname>
+                            <given-names>F. O</given-names>
+                        </name>
+                        <name name-style="western">
+                            <surname>Morrone</surname>
+                            <given-names>O.</given-names>
+                        </name>
+                        <name name-style="western">
+                            <surname>Belgrano</surname>
+                            <given-names>M. J.</given-names>
+                        </name>
+                    </person-group>
+                    <year>2008</year>
+                    <source>Catálogo de las plantas vasculares del Cono Sur (Argentina, sur de Brasil, Chile, Paraguay y Uruguay)</source>
+                    <volume>2</volume>
+                    <series>Monographs in Systematic Botany from the Missouri Botanical Garden, 107</series>
+                    <publisher-name>Missouri Botanical Garden Press</publisher-name>
+                    <publisher-loc>St. Louis</publisher-loc>
+                </element-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

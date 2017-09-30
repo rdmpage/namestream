@@ -39,6 +39,9 @@ tbody{
 	<xsl:apply-templates select="//abstract"/>
 	<xsl:apply-templates select="//body"/>
 	<xsl:apply-templates select="//back"/>
+	
+	<!-- Biodiversity Data Journal -->
+	<xsl:apply-templates select="//floats-group"/>
 
 	</body>
 	</html>
@@ -361,7 +364,14 @@ tbody{
                     <xsl:value-of select="@id" />
                 </xsl:attribute>
             </a>
+            
             <xsl:apply-templates select="mixed-citation"/>
+            
+            <!-- Hindawi -->
+            <xsl:apply-templates select="nlm-citation"/>            
+            
+            <!-- Biodiversity Data Journal -->
+            <xsl:apply-templates select="element-citation"/>
         </li>
     </xsl:template>
 
@@ -378,7 +388,7 @@ tbody{
     </xsl:template>
 
     <!-- a citation -->
-    <xsl:template match="mixed-citation">
+    <xsl:template match="mixed-citation | element-citation | nlm-citation">
     	<xsl:choose>
     		<xsl:when test="person-group">
         		<xsl:apply-templates select="person-group"/>
@@ -400,9 +410,21 @@ tbody{
 				<xsl:value-of select="fpage" />
 				<xsl:text>-</xsl:text>
 				<xsl:value-of select="lpage" />
-
 			</xsl:when>
 		</xsl:choose>
+		
+		<!-- links -->
+		<xsl:for-each select="uri">
+			<xsl:choose>
+				<xsl:when test="@xlink:type='simple'">
+					<span style="background-color:blue;color:white;">
+						<xsl:value-of select="." />
+					</span>
+				</xsl:when>
+				<xsl:otherwise>
+				</xsl:otherwise>
+			</xsl:choose>
+		</xsl:for-each>
 
 		<!-- identifiers -->
 		<xsl:for-each select="ext-link">
@@ -432,6 +454,13 @@ tbody{
 						<xsl:value-of select="." />
 					</span>
 				</xsl:when>
+				<xsl:when test="@pub-id-type='doi'">
+					<span style="background-color:blue;color:white;">
+						<xsl:text> DOI:</xsl:text>
+						<xsl:value-of select="." />
+					</span>
+				</xsl:when>
+				
 				<xsl:otherwise>
 				</xsl:otherwise>
 			</xsl:choose>

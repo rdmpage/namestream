@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pdfx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pdfx.cs.man.ac.uk/static/article-schema.xsd">
+  <meta>
+    <job>eca3fd275f88c519fc555e0b33a6379e9c839efb6aaeb28cd0563959282ede33</job>
+    <base_name>h3</base_name>
+    <doi confidence="possible" alt_doi="http://dx.doi.org/10.1002/mmnz.4850800205">http://dx.doi.org/10.1002/mmnz.20040800205</doi>
+    <warning>Name identification was not possible. </warning>
+  </meta>
+  <article>
+    <front class="DoCO:FrontMatter">
+      <region class="DoCO:FigureBox" id="Fx1">
+        <image class="DoCO:Figure" src="h3.page_001.image_01.png" thmb="h3.page_001.image_01-thumb.png"/>
+      </region>
+      <region class="unknown" id="2">Article</region>
+      <region class="unknown" id="3">Zootaxa 2550: 39 – 57 (2010) www.mapress.com / zootaxa / Copyright © 2010 · Magnolia Press</region>
+      <region class="unknown" id="4">ISSN 1175-5326 (print edition) ZOOTAXA ISSN 1175-5334 (online edition)</region>
+      <title-group>
+        <article-title class="DoCO:Title" id="5">A new species of Litoria (Anura: Hylidae) with a highly distinctive tadpole from the north-western Kimberley region of Western Australia</article-title>
+      </title-group>
+      <region class="DoCO:TextChunk" id="7" confidence="possible">MARION ANSTIS 1,5 , MICHAEL J. TYLER 2 , J. DALE ROBERTS 3 , LUKE C. PRICE 2 &amp; PAUL DOUGHTY 4 1 School of Biological Sciences, Newcastle University, Callaghan, Newcastle NSW 2308, Australia 2 Department of Ecology and Evolutionary Biology, School of Earth and Environmental Sciences, University of Adelaide, SA 5005, Australia 3 School of Animal Biology M092, University of Western Australia, Crawley WA 6009, Australia 4 Department of Terrestrial Zoology, Western Australian Museum, 49 Kew Street, Welshpool WA 6106, Australia 5 Corresponding author. E-mail: <email id="6">frogpole@tpg.com.au</email></region>
+      <abstract class="DoCO:Abstract" id="8">We describe a small hylid frog species with a highly distinctive tadpole from the Kimberley region of northern Western Australia. The new taxon is morphologically very similar to Litoria meiriana but can be differentiated using a combination of adult and larval morphology and male calls. Tadpoles of the new taxon can be readily differentiated from those of L. meiriana by their unique black, gold and red pigment patterns and the continuous papillary border around the oral disc. Advertisement calls of L. aurifera sp. nov. are longer, have more pulses, have more marked frequency modulation and are produced at a lower rate than those of L. meiriana. Litoria aurifera sp. nov. is only known from locations up to about 100 km south of the Prince Regent River and is associated with small creeks on massive sandstone escarpments, while L. meiriana is widespread in escarpments across northern Western Australia and the northern part of the Northern Territory. Key words: advertisement call, frog, larval development, Litoria aurifera sp. nov., Litoria meiriana, Prince Regent River Nature Reserve</abstract>
+    </front>
+    <body class="DoCO:BodyMatter">
+      <section class="deo:Introduction">
+        <h1 class="DoCO:SectionTitle" id="9" page="1" column="1">Introduction</h1>
+      </section>
+      <region class="DoCO:TextChunk" id="20" page="1" column="1">The Kimberley region of northern Western Australia is the westernmost part of the Australian Monsoon Tropics which span the top of Australia, and receives more than 85% of annual rainfall between November and April ( <xref ref-type="bibr" rid="R4" id="10" class="deo:Reference">Bowman et al. 2010</xref>). Inland from the coast, this region is characterised by large sandstone escarpments dissected by rivers which form habitat islands in a ‘savanna sea’ of tall grasses, spinifex and eucalypt woodland (<xref ref-type="bibr" rid="R4" id="11" class="deo:Reference">Bowman et al. 2010</xref>). The remote, rugged escarpments within the Kimberley are difficult to access during the monsoon period, hence the amphibian fauna has remained largely unexplored in all but a few areas. Recent field studies focusing on this region have resulted in the description of three new frog species (<xref ref-type="bibr" rid="R8" id="12" class="deo:Reference">Doughty &amp; Anstis 2007</xref>; <xref ref-type="bibr" rid="R9" id="13" class="deo:Reference">Doughty &amp; Roberts 2008</xref>; <xref ref-type="bibr" rid="R10" id="14" class="deo:Reference">Doughty et al. 2009</xref>) and highlight the potential for further undescribed species in the Kimberley. While discoveries of these three species reflect more intensive field work in remote locations, the recent discovery of a new species in an area previously well surveyed close to the major city of Darwin (<xref ref-type="bibr" rid="R18" id="15" class="deo:Reference">Young et al. 2005</xref>), indicates that the frog diversity in the Australian Monsoon Tropics is not completely known. On a botanical expedition in early January 1995, Matt and Russell Barrett observed some very unusual, brightly-coloured tadpoles immediately south of the Prince Regent River Nature Reserve. All locations were within about 40 km of the Prince Regent River in creeks on massive sandstone. Collections of the tadpoles by the Barrett brothers were made in 2001 and 2003, with the specimens forwarded to MJT, who recognised them<marker type="page" number="2"/><marker type="block"/> to be an undescribed species but none was successfully raised to adulthood in captivity. Subsequent examination of these preserved tadpoles by MA indicated a likely affinity with the larvae of Litoria meiriana in size, shape and some features of the oral disc. An expedition was undertaken in January 2007 to observe and collect tadpoles and adults of the new species. Tadpoles and adults were collected, with some live tadpoles brought back to Kununurra for captive rearing. Call recordings of adult males were also made. The new taxon was observed to be very similar to Litoria meiriana, a small, distinctive species associated with rock holes and flowing creeks from the Kimberley to Arnhem Land (<xref ref-type="bibr" rid="R13" id="19" class="deo:Reference">Tyler 1969</xref>), and both species share the unique ability to ‘bounce’ lightly across the water surface without immersion. Here we compare adults, call structures and tadpoles of the two species and provide a description of the new taxon.</region>
+      <outsider class="DoCO:TextBox" type="footer" id="17" page="1" column="1">Accepted by S. Castroviejo: 26 Jun. 2010; published: 27 Jul. 2010</outsider>
+      <outsider class="DoCO:TextBox" type="page_nr" id="18" page="1" column="1">39</outsider>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="21" page="2" column="1">Material and methods</h1>
+        <region class="DoCO:TextChunk" id="32" page="2" column="1">We examined specimens (listed in the Appendix) held in the collections of the Western Australian Museum, Perth (WAM) and South Australian Museum, Adelaide (SAMA). Four of the tadpoles of the new taxon collected in 2007 were reared from tadpoles to adulthood in captivity. Adult morphology. Methods and abbreviations of morphometric measurements ( <xref ref-type="table" rid="T1" id="22" class="deo:Reference">Table 1</xref>) follow Tyler (1968). We tested for a difference in SVL with a one-way ANOVA. TL, HW and HL were tested with one- way ANCOVAs, with SVL as a covariate; the covariate was deleted if not signifcant at the P = 0.05 level. All specimens were fixed in 10% formalin, and then preserved in 70% ethanol. Measurements were made with the aid of an ocular micrometer attached to a stereoscopic microscope, or with digital callipers to the nearest 0.01 mm. Colours of the adults were compared with the Pantone swatches. Tadpoles. Preserved tadpoles of L. meiriana were described briefly by <xref ref-type="bibr" rid="R14" id="23" class="deo:Reference">Tyler et al. (1983)</xref> from the Magela Creek system in the Northern Territory. For more detailed comparison between species here, further live and preserved samples were collected from Kakadu National Park, Northern Territory and Kununurra in north-eastern Western Australia. Tadpoles of the new taxon were raised in 40 cm diameter opaque plastic containers in water to a depth of 15 cm over a substrate of sandy gravel and rocks. They were fed small amounts of crushed algae discs. Water was aerated using an airstone attached to a pump. Temperature was not controlled, but ranged between about 27–35°C when tadpoles were reared at Kununurra, Western Australia immediately after field collection, where January maximum temperatures are similar to those at the collection sites. Prior to study, selected tadpoles were anaesthetised in a solution of 0.2% chlorbutol, then photographed with a Nikon D80 and 60 mm macro lens. Measurements of anaesthetised specimens were obtained with the aid of vernier calipers and a micrometer eye-piece attached to a Wild M5 stereoscopic microscope. Voucher specimens were preserved in 4% buffered formalin (<xref ref-type="bibr" rid="R12" id="24" class="deo:Reference">Tyler 1962</xref>) and in 70% ethanol, later to be deposited in the WAM and SAMA. Drawings of preserved specimens were prepared with the aid of a drawing tube attached to the microscope. Tadpoles were staged according to <xref ref-type="bibr" rid="R11" id="25" class="deo:Reference">Gosner (1960)</xref>. Methods of measurement and abbreviations of morphometric measurements of tadpoles (Tables 4, 5) follow <xref ref-type="bibr" rid="R3" id="26" class="deo:Reference">Anstis and Tyler (2005)</xref> and <xref ref-type="bibr" rid="R2" id="27" class="deo:Reference">Anstis (2002)</xref>. Call analysis. The calls of five L. aurifera sp. nov. from a creek off Bachsten Creek in Prince Regent River Nature Reserve and five L. meiriana males from 'The Grotto', 28.2 km south-east of Wyndham, Western Australia were analysed. Calls can be heard on the Alcoa Frog Watch website (see References). Calls were recorded on a Marantz PMD660, digital recorder using a Beyer M88 microphone and recorded as WAV files sampled at 48 kHz. Calls were analysed using Raven 1.3. Frequency was analysed using default settings of: Hann window, DFT size of 256 samples and grid spacing of 188 Hz with no spectral averaging. We determined peak frequency values in a spectrum display made from selected portions of the call in the waveform display or frequency range in a spectrogram display. For both species we defined the advertisement call as the commonest calls produced in consistent bouts. For both species we recorded air temperature at sites where frogs were calling on sloping rock surfaces along small, rapidly flowing streams, generally in the splash zone. This is a compromise measure, as actual<marker type="page" number="3"/><marker type="block"/> body temperature will be influenced by rock and ambient air temperatures and evaporation, both from rocks splashed by water flow and the frog’s skin.</region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="29" page="2" column="1">40</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="30" page="2" column="1">· Zootaxa 2550 © 2010 Magnolia Press</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="31" page="2" column="1">ANSTIS ET AL.</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="33" page="3" column="1">Systematics</h1>
+        <region class="DoCO:TextChunk" id="34" page="3" column="1">Although the traditional characters of adult morphology do not unambiguously diagnose Litoria meiriana and the new taxon, when taken together with the evidence from tadpole morphology and male calls, we propose there are two species involved in our comparisons. The new taxon appears to be confined to the region of the Prince Regent River Nature Reserve and up to about 60 km further south of it. Based on a consensus of adult and larval morphology and acoustic characters, we describe the populations from the high rainfall zone of the western Kimberley as a new species, Litoria aurifera sp. nov.</region>
+        <region class="unknown" id="35" page="3" column="1">Litoria aurifera</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="36" page="3" column="1">sp. nov.</h1>
+        <region class="DoCO:TextChunk" id="37" confidence="possible" page="3" column="1">Kimberley Rockhole Frog</region>
+        <region class="DoCO:TextChunk" id="68" page="3" column="1">Holotype: WAM R169913, an adult female collected as a tadpole from a creek near Bachsten Creek, Prince Regent River Nature Reserve, Western Australia (elevation 343m; 15o59’18.2”S, 125o19’38.1”E) on 23 January 2007 by J.D. Roberts and P. Doughty and raised to an adult by M. Anstis. Paratypes (prefixes excluded). Paratypes include a mix of field-collected adults, males with recorded calls, and two adults reared from tadpoles. WAM specimens are all taken from smaller unnamed creeks off Bachsten Creek, Prince Regent River Nature Reserve. R168004 (female), 168006 (male), 168008 (female), 168009 (male), 168010 (female), 168013–4 (males), 168016–8 (males): elevation 349m, 15°59'22"S, 125°19'36"E; 168059 (male), 168062 (male): elevation 260m, 15°44'54"S, 125°22'25"E; 168095 (male): elevation 232m, 15°25'42"S, 125°18'42"E; 168114 (male), 168116 (male), 168118 (female), 168129 (male), 168134 (female): elevation 46m, 15°35'40"S, 125°11'14"E; 168182–5 (males): elevation 408m, 15°51'34"S, 125°41'47"E. SAMA specimens were reared from tadpoles collected at 5.1 km ESE of junction of Pitta Creek and Prince Regent River, Western Australia: 63001 and 63002 (male and female): elevation 408m, 15o51’34.6”S, 125o41’47”E. Diagnosis. Australia has three hylid genera of which Cyclorana is fossorial, Nyctimystes has a vertical pupil and palpebral venation, and Litoria, which has a horizontal pupil and no palpebral venation. The new taxon is assigned to Litoria because of its obvious morphological affinity to Litoria meiriana in body form, size, skin colour and texture and its ability to bounce lightly across the water surface without immersion, an attribute shared only by L. meiriana. Litoria aurifera is a small (to 22 mm), saxicoline species, characterized by a somewhat dorsoventrally compressed, slight body and numerous scattered tubercles over the dorsal surface. The snout is moderately pointed in dorsal view, canthus rostralis slightly curved, tympanum distinct and toes almost fully webbed. It can be distinguished from L. meiriana primarily by its vividly pigmented gold and black tadpole and by adult call characteristics. While very similar to L. meiriana, the snout of adult L. aurifera tends to be slightly more pointed in dorsal view ( <xref ref-type="fig" rid="F1C" id="38" class="deo:Reference">Figure 1C</xref>), and SVL, TL and HW are slightly greater than the former species. Description of holotype. Size small (SVL 21.8 mm). Head slightly longer (7.7 cm) than broad (6.4 cm), HL/HW 1.203. Canthus rostralis very slightly curved. Snout moderately pointed when viewed from above; obtusely rounded in profile. Eye prominent, horizontal diameter 2.7 mm. Eye to naris distance greater than internarial span (EN/IN 1.7). Tympanum distinct with sharply defined annulus; horizontal diameter 2.0 mm. Small circular gland at angle of jaws and poorly developed supratympanic fold. Vomerine teeth oblique, slope slightly downwards towards medial corner.<marker type="page" number="4"/><marker type="block"/> Fingers long and slender, in decreasing order of length 3&gt;4&gt;2&gt;1, with small, transversely oval terminal discs that are distinctly wider than digits; a trace of webbing between third and fourth fingers. Subarticular tubercle at base of terminal phalanx elongate and oval. Palmar tubercle broad and flattened (<xref ref-type="fig" rid="F1E" id="45" class="deo:Reference">Figure 1E</xref>). Tibia length slightly more than one-half SVL (TL/SVL 0.55). Toes long and slender, in decreasing order of length 4&gt;5&gt;3&gt;2&gt;1, discs slightly more rounded than oval and wider than digits. Interdigital webbing extensive,<marker type="page" number="5"/><marker type="block"/> reaching the base of the discs of all digits except the third and fourth (<xref ref-type="fig" rid="F1F" id="50" class="deo:Reference">Figure 1F</xref>). Inner metatarsal tubercle small and elongate; outer metatarsal tubercle extremely small and circular. The dorsum bears numerous scattered slightly raised tubercles, middorsal tubercles more flattened. The throat is smooth; abdomen is weakly granular with granulation larger towards sides of body. The colour in life of the dorsal surface and limbs is mottled with shades of brown and reddish brown (Pantone 464M to 465M). Dorsal tubercles are surrounded by darker brown (462M), which is also in patches upon the hind limbs. The upper lip is often edged with dark brown and silver-white bars, and the sides of the body have scattered whitish tubercles on a dark brown background. The iris is reddish above and grey-gold below (<xref ref-type="fig" rid="F2C" id="51" class="deo:Reference">Figure 2C</xref>). In ventral view, the submandibular area and throat are warm grey (1M), and the abdomen is white tinged with pale copper-pink (<xref ref-type="fig" rid="F2E" id="52" class="deo:Reference">Figure 2E</xref>). The undersurface of the limbs is dark flesh colour (436M). In preservative, each of the pigments is paler and all red, gold and copper pigment is lost. Variation. Males (N = 20) range in SVL from 18.2–20.2 mm and females (N = 8) from 20.3–21.6 mm. The TL/SVL range is 0.479 to 0.594 (<xref ref-type="table" rid="T1" id="53" class="deo:Reference">Table 1</xref>). The nasal and maxillary bones are extremely thin and the anterior portion of the skull is therefore subject to distortion by compression. As a result, some specimens were excluded from the analysis because they are slightly distorted rendering measurements unreliable.<marker type="block"/> Colour in life: Two specimens reared in captivity had an iridescent reddish tinge over mottling on the dorsum. Specimens photographed before collection at night in the field were reddish brown to almost translucent beige over the limbs, where faint darker patches were visible beneath (<xref ref-type="fig" rid="F2B" id="57" class="deo:Reference">Figure 2B</xref>). Some others were darker reddish-brown with black mottling over dorsum and limbs (M. Barrett pers. comm.). The throat of calling males was dusky grey. Ventrally, the subgular, pectoral and abdominal regions were white and the limbs faint purple (Pantone 5155M). Colour in preservative: All iridophore pigment is lost. Ventrally, the limbs fade to the same tone as the remainder of the ventral surfaces. Etymology. Derived from the latin aureus (gold) and fero (to carry or bear) alluding to the distinctive gold patches characterising the colour of the tadpole. Distribution and habitat. <xref ref-type="fig" rid="F3" id="58" class="deo:Reference">Figure 3</xref> shows the distributions of L. aurifera and L. meiriana. Adults and tadpoles of L. aurifera were collected from creeks where tadpoles of the new species were found, across an altitudinal range of about 46–408m within about 100 km S. of the Prince Regent River. All sites were first order,<marker type="page" number="7"/><marker type="block"/> fast flowing creeks which collect water from rain on sandstone rock escarpments. Tadpoles were collected from pools within the creeks, but were never found in larger creeks or water that carries silt from flooding (M. Barrett, pers. comm.). Water depth in the pools ranged from a few cm to 1 m and substrate was irregular sandstone rock. In some sites the yellow sandstone rock was covered with patches of black algae, on which tadpoles were well camouflaged.</region>
+        <outsider class="DoCO:TextBox" type="footer" id="40" page="3" column="1">A NEW SPECIES OF LITORIA</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="41" page="3" column="1">Zootaxa 2550 © 2010 Magnolia Press ·</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="42" page="3" column="1">41</outsider>
+        <region class="DoCO:FigureBox" id="F1">
+          <image class="DoCO:Figure" src="h3.page_004.image_02.png" thmb="h3.page_004.image_02-thumb.png"/>
+          <caption class="deo:Caption" id="44" page="4" column="1">FIGURE 1. Head of holotype of Litoria meiriana (SAMA R9082, female) compared with head of holotype of Litoria aurifera sp. nov. (WAM R169913, female) and hand and foot of holotype of Litoria aurifera (WAM R169913, female). A, B = holotype of L. meiriana dorsal and lateral views; C, D = holotype of L. aurifera dorsal and lateral views; E, F = hand and foot of L. aurifera. Bar represents 5 mm.</caption>
+        </region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="47" page="4" column="1">42</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="48" page="4" column="1">· Zootaxa 2550 © 2010 Magnolia Press</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="49" page="4" column="1">ANSTIS ET AL.</outsider>
+        <region class="DoCO:TableBox" id="T1">
+          <caption class="deo:Caption" id="55" page="5" column="1">TABLE 1. Morphological measurements of Litoria aurifera sp. nov. and Litoria meiriana. Mean ± S.D. (range). SVL = snout-vent length; TL = tibia length; HW = head width; HL = head length; IO = interorbital span; IN = internarial span; ED = horizontal eye diameter; TD = horizontal tympanum diameter; ET = eye to tympanum; EN = distance between eye and naris. Character Litoria aurifera Litoria meiriana Statistical Results N = 27 N = 27 SVL 19.9±1.0 (18.2–22.3) 18.8±1.3 (17.1–22.4) F = 14.63, P &lt; 0.001 1,52</caption>
+          <content>
+            <table class="DoCO:Table" number="1" page="5">
+              <thead class="table"/>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> TL</td>
+                  <td class="table"> 11.0±0.7 (10.0–12.7)</td>
+                  <td class="table"> 10.3±0.5 (9.3–11.8)</td>
+                  <td class="table"> F 1,52 = 16.00, P &lt; 0.001</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> HW</td>
+                  <td class="table"> 7.4±0.3 (6.9–7.9)</td>
+                  <td class="table"> 6.9±0.6 (5.5–8.1)</td>
+                  <td class="table"> F 1,51 = 7.27, P &lt; 0.01 SVL: F 1,51 = 4.53, P = 0.038</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> HL</td>
+                  <td class="table"> 6.9±0.5 (6.3–8.1)</td>
+                  <td class="table"> 6.8±0.4 (5.6–7.7)</td>
+                  <td class="table"> F 1,51 = 0.28, P &lt; 0.598 SVL: F 1,51 = 5.04, P = 0.029</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> IO</td>
+                  <td class="table"> 4.0±0.5 (2.1–4.7)</td>
+                  <td class="table"> 3.9±0.5 (2.0–4.3)</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> IN</td>
+                  <td class="table"> 1.5±0.2 (1.0–1.8)</td>
+                  <td class="table"> 1.4±0.1 (1.0–1.7)</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> ED</td>
+                  <td class="table"> 2.2±0.2 (2.0–2.6)</td>
+                  <td class="table"> 2.3±0.2 (1.9–2.7)</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> TD</td>
+                  <td class="table"> 1.7±0.1 (1.4–2.1)</td>
+                  <td class="table"> 1.6±0.1 (1.3–1.8)</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> ET</td>
+                  <td class="table"> 0.6±0.1 (0.5–0.7)</td>
+                  <td class="table"> 0.6±0.1 (0.3–0.9)</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> EN</td>
+                  <td class="table"> 2.0±0.1 (1.6–2.5)</td>
+                  <td class="table"> 2.0±0.2 (1.6–2.4)</td>
+                  <td class="table"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="56" confidence="possible" page="5" column="1">TL 11.0±0.7 (10.0–12.7) 10.3±0.5 (9.3–11.8) F = 16.00, P &lt; 0.001 1,52 HW 7.4±0.3 (6.9–7.9) 6.9±0.6 (5.5–8.1) F = 7.27, P &lt; 0.01 1,51 SVL: F = 4.53, P = 0.038 1,51 HL 6.9±0.5 (6.3–8.1) 6.8±0.4 (5.6–7.7) F = 0.28, P &lt; 0.598 1,51 SVL: F = 5.04, P = 0.029 1,51 IO 4.0±0.5 (2.1–4.7) 3.9±0.5 (2.0–4.3) IN 1.5±0.2 (1.0–1.8) 1.4±0.1 (1.0–1.7) ED 2.2±0.2 (2.0–2.6) 2.3±0.2 (1.9–2.7) TD 1.7±0.1 (1.4–2.1) 1.6±0.1 (1.3–1.8) ET 0.6±0.1 (0.5–0.7) 0.6±0.1 (0.3–0.9) EN 2.0±0.1 (1.6–2.5) 2.0±0.2 (1.6–2.4)</region>
+        </region>
+        <outsider class="DoCO:TextBox" type="footer" id="60" page="5" column="1">A NEW SPECIES OF LITORIA</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="61" page="5" column="1">Zootaxa 2550 © 2010 Magnolia Press ·</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="62" page="5" column="1">43</outsider>
+        <region class="DoCO:FigureBox" id="F2">
+          <image class="DoCO:Figure" src="h3.page_006.image_03.png" thmb="h3.page_006.image_03-thumb.png"/>
+          <caption class="deo:Caption" id="64" page="6" column="1">FIGURE 2. Comparative adult frogs in life: Litoria meiriana and Litoria aurifera sp. nov. A = Litoria meiriana, active by day, Nawurlandja Rock, Kakadu National Park, Northern Territory. B = Litoria aurifera, at night in habitat, Prince Regent Nature Reserve, Western Australia. C = Litoria aurifera, holotype (WAM R169913, female) dorsolateral view, during daytime, raised from tadpole in captivity. D = Litoria aurifera, holotype (WAM R169913, female) dorsal view. E = Litoria aurifera, holotype (WAM R169913, female) ventral view. F = Litoria aurifera, anterior view, at night in habitat, Prince Regent Nature Reserve, Western Australia. Bar represents 5 mm.</caption>
+        </region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="65" page="6" column="1">44</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="66" page="6" column="1">· Zootaxa 2550 © 2010 Magnolia Press</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="67" page="6" column="1">ANSTIS ET AL.</outsider>
+        <region class="DoCO:FigureBox" id="F3">
+          <image class="DoCO:Figure" src="h3.page_007.image_04.png" thmb="h3.page_007.image_04-thumb.png"/>
+          <caption class="deo:Caption" id="70" page="7" column="1">FIGURE 3. Distributions of Litoria aurifera sp. nov. and Litoria meiriana in north-western Australia.</caption>
+        </region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="71" page="7" column="1">Tadpole morphology and development</h1>
+        <region class="DoCO:TextChunk" id="91" page="7" column="1">Ovarian eggs. Ovarian eggs are very small and pigmented: the animal pole is dark brown and the vegetal pole is white. The total ova in three preserved females is 60, 61 and 111. The mean diameter of 11 ova that appear fully formed is 0.9 mm (0.8–1.0). Although not observed in life, eggs and embryos are likely to be very similar to those of L. meiriana, which are laid in small clusters attached to submerged rock ( <xref ref-type="bibr" rid="R6" id="72" class="deo:Reference">Davies et al. 1983</xref>). They have a brown animal pole and white vegetal pole with a diameter in life of about 1 mm prior to stage 10 (Anstis, unpublished). Tadpoles. Tadpoles are unique in their remarkable pigmentation, and this alone makes them readily distinguishable from all other known Australian tadpoles. A composite description of tadpoles at stages 25–39 is provided, with developmental changes in later stages 40–46 (up to metamorphosis). Measurements of total length and body length compared to L. meiriana are provided in <xref ref-type="table" rid="T5" id="73" class="deo:Reference">Table 5</xref> and illustrations of the tadpole of L. meiriana are included for further comparison (Figures 4A, B; 5A; 6A and 7A). The largest tadpole of L. aurifera had a total length of 29.0 mm and body length of 10.5 mm (stage 39). Body: Body small, streamlined and wider than deep (often slightly wider across gill region). Snout rounded (stage 26) to broadly rounded in dorsal view by stage 36, elongate and rounded in lateral view (Figures 4C, D). Eyes dorsolateral with slight anterior tilt, somewhat disguised from view in life due to dorsal body pigmentation. Iris dense black with dull copper-gold iridophores mainly above and below pupil. Nares small (e.g. 0.2 mm, stage 36), moderately spaced, open anterolaterally with a dorsal tilt; rim slightly raised on inner edge. Spiracle sinistral, fairly short, tapers slightly to its posterodorsal opening, and is positioned well below the horizontal body axis, posterior to midpoint of body. In preserved specimens, the spiracle may appear contracted slightly further up the side of the body (e.g. <xref ref-type="fig" rid="F4C" id="74" class="deo:Reference">Figure 4C</xref>). Vent tube dextral, mostly unattached to fin behind and opens diagonally down to edge of ventral fin.<marker type="page" number="8"/><marker type="block"/> Tail: Dorsal fin begins at base of body, arches slightly near midpoint and tapers gradually to narrowly rounded tip. Ventral fin not arched, maintains similar depth along length. Muscle moderate to robust at base of body, tapers to narrow point. Pigmentation in life (Figures 5, 6): Dorsum and sides of body black with scattered, large bright gold blotches and fine gold flecks around these (less flecks in earlier stages). These blotches are individually variable in shape and number, except for three very prominent rounded blotches on the snout, which were<marker type="page" number="9"/><marker type="block"/> present in all specimens observed and positioned in the middle of the snout and symmetrically on each side of the head anterior to the eyes (<xref ref-type="fig" rid="F5D" id="85" class="deo:Reference">Figure 5D</xref>). Laterally, there is usually an irregularly-shaped gold blotch below and/or behind each eye, one or more along middle of body and above this, and another at base of body. In some the lateral gold blotches merge to form a broad stripe (M. and R. Barrett, pers. comm.). Ventral surface transparent down middle third where gut, heart and gills are visible, lateral one-third on each side of abdomen covered with dense layer of melanophores breaking into melanophore stippling over gills and anterior to oral disc (<xref ref-type="fig" rid="F5E" id="86" class="deo:Reference">Figure 5E</xref>). Tail pigment bitonal or tritonal - translucent pale or deep yellow (guanophore pigment) anteriorly with or without a few black and gold patches (iridophore pigment), and dense black posteriorly, often with a few irregular ‘windows’ in the fins tinted with pale gold and/or deep red. Dorsal fin dusky grey near base of body. From about stages 39–40, the dorsum gradually becomes dark golden brown rather than black, the golden dorsal blotches begin to fade and the rounded patches around the front of the head begin to shrink (<xref ref-type="fig" rid="F6B" id="87" class="deo:Reference">Figure 6B</xref>). By stage 42, the dorsum is dark brown with numerous smaller pale spots, most of which highlight small tubercles (<xref ref-type="fig" rid="F6C" id="88" class="deo:Reference">Figure 6C</xref>). The lateral gold patch behind each eye transforms to a pale yellow patch over the upper arm and a similar gold patch at the base of the body on each side becomes a pale beige patch on each thigh, with another pale patch on each heel. Closer to metamorphosis at stage 46, the dorsal tubercles increase and all pale gold dorsal blotches are gone. Pigmentation in preservative: After preservation, all pigment other than melanophores is lost. In ethanol, whitish patches on body (indicative of gold patches in life in L. aurifera) are still visible, while in specimens preserved in formalin, they are lost or much less visible. Oral Disc: Ventral, suctorial and almost as wide as snout, distinctly triangular in shape when not attached to substrate. Entirely surrounded by numerous small papillae, with 1–2 rows anteriorly increasing to 2–3 laterally and numerous rows at each posterior corner (<xref ref-type="fig" rid="F7B" id="89" class="deo:Reference">Figure 7B</xref>); 2–3 rows posteriorly, marginal papillae mostly more pointed and longer. Two anterior and three posterior tooth rows with fine teeth crowded into a medial pleat in all but A 2 row; narrow medial gap in A 2 , P 1,2,3 entire. All tooth rows very long and extend to papillae; anterior rows longer than posterior rows and A 1 extends around inside edge of most of disc. Jaw sheaths slender, upper sheath broad and very slightly arched with a slight shallow medial indent on the lower edge; lower sheath distinctly V-shaped. Labial tooth row formula: 2(2)/3. Behaviour. Tadpoles are benthic and mostly remain stationary on rocks on the floor of the stream where their contrasting pigment patterns may provide greater camouflage by breaking up the outline of the body when viewed from above on the substrate of patchy dark algae and yellow sandstone (Figures 6E, F). They also adhere to vertical rock faces above the substrate (M. and R. Barrett, pers. comm.). Tadpoles are difficult to dislodge when adhering to rock with the oral disc, and when disturbed, they dart across the bottom in fast sudden spurts, changing direction abruptly. Samples maintained in captivity behaved in a similar manner and at times adhered vertically to the sides of the container, frequently within the current of water flow created by the pump and airstone, where they could maintain strong suction. They were observed to feed on silt and small amounts of finely crushed algae disc on the substrate and also algae on rocks. Metamorphosis: Development to metamorphosis is rapid once tadpoles have reached stage 39. Newly metamorphosed froglets were dark brown with numerous paler raised tubercles over the dorsum and dull darker bands across hind limbs and lower arms (<xref ref-type="fig" rid="F6D" id="90" class="deo:Reference">Figure 6D</xref>). Iris golden, tympanum not yet visible. Snout pointed; dark brown vertical bars alternate with silvery white along upper lip. Cream patches on upper arm, near each knee and across base of tibia. Ventral surface whitish-grey. Finger and toe discs as yet very small; webbing between toes as for adult. Four metamorphs at stage 46 had a mean SVL of 9.3 mm (8.5–10 mm).</region>
+        <outsider class="DoCO:TextBox" type="footer" id="76" page="7" column="1">A NEW SPECIES OF LITORIA</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="77" page="7" column="1">Zootaxa 2550 © 2010 Magnolia Press ·</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="78" page="7" column="1">45</outsider>
+        <region class="DoCO:FigureBox" id="F4">
+          <image class="DoCO:Figure" src="h3.page_008.image_05.png" thmb="h3.page_008.image_05-thumb.png"/>
+          <caption class="deo:Caption" id="80" page="8" column="1">FIGURE 4. Comparative larval drawings: Litoria aurifera sp. nov. and Litoria meiriana. A = L. meiriana stage 35 lateral view, Nawurlandja Rock, Kakadu National Park, Northern Territory. B = L. meiriana dorsal view stage 35, Nawurlandja Rock, Kakadu National Park, Northern Territory. C = L. aurifera stage 37 lateral view, Prince Regent River Nature Reserve, Western Australia. D = L. aurifera stage 37 dorsal view, Prince Regent River Nature Reserve, Western Australia. Bar represents 5 mm.</caption>
+        </region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="82" page="8" column="1">46</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="83" page="8" column="1">· Zootaxa 2550 © 2010 Magnolia Press</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="84" page="8" column="1">ANSTIS ET AL.</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="92" page="9" column="1">A NEW SPECIES OF LITORIA</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="93" page="9" column="1">Zootaxa 2550 © 2010 Magnolia Press ·</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="94" page="9" column="1">47</outsider>
+        <region class="DoCO:FigureBox" id="F5">
+          <image class="DoCO:Figure" src="h3.page_010.image_06.png" thmb="h3.page_010.image_06-thumb.png"/>
+          <caption class="deo:Caption" id="96" page="10" column="1">FIGURE 5. Comparative larvae in life (lateral, anterior and ventral view): Litoria meiriana and Litoria aurifera sp. nov. A = Litoria meiriana stage 36, lateral view; Nawurlandja Rock, Kakadu National Park, Northern Territory. B = Litoria aurifera stage 35, lateral view; creek off Bachsten Creek, Prince Regent River Nature Reserve, Western Australia. C = Litoria aurifera stage 33, lateral view; creek off Bachsten Creek, Prince Regent River Nature Reserve, Western Australia. D = Litoria aurifera stage 32 anterior view; 5.1 km ESE of junction of Pitta Ck and Prince Regent River, Prince Regent River Nature Reserve. E = Litoria aurifera stage 26, ventral view; creek off Bachsten Creek, Prince Regent River Nature Reserve, Western Australia. Bar represents 5 mm.</caption>
+        </region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="97" page="10" column="1">48</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="98" page="10" column="1">· Zootaxa 2550 © 2010 Magnolia Press</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="99" page="10" column="1">ANSTIS ET AL.</outsider>
+        <region class="DoCO:FigureBox" id="F6">
+          <image class="DoCO:Figure" src="h3.page_011.image_07.png" thmb="h3.page_011.image_07-thumb.png"/>
+          <caption class="deo:Caption" id="101" page="11" column="1">FIGURE 6. Comparative larvae in life (dorsal view): Litoria aurifera sp. nov. and Litoria meiriana. A = Litoria meiriana stage 37 showing colour variation (dorsal view), Nawurlandja Rock Kakadu National Park, Northern Territory. B = Litoria aurifera stages 42, 41, 36 and 26 (top to bottom), on a leaf taken from natural habitat. C = Litoria aurifera stage 43, Prince Regent River Nature Reserve, Western Australia. D = Litoria aurifera stage 45 (holotype WAM R169913 as a metamorph), Prince Regent River Nature Reserve, Western Australia. E = Litoria aurifera tadpole camouflaged on substrate in creek, Prince Regent River Nature Reserve, Western Australia. Arrow indicates yellow part of tail. F = Litoria aurifera tadpole on substrate in creek, Prince Regent River Nature Reserve, Western Australia. Bar represents 5 mm.</caption>
+        </region>
+        <outsider class="DoCO:TextBox" type="footer" id="102" page="11" column="1">A NEW SPECIES OF LITORIA</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="103" page="11" column="1">Zootaxa 2550 © 2010 Magnolia Press ·</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="104" page="11" column="1">49</outsider>
+        <region class="DoCO:FigureBox" id="F7">
+          <image class="DoCO:Figure" src="h3.page_012.image_08.png" thmb="h3.page_012.image_08-thumb.png"/>
+          <caption class="deo:Caption" id="106" page="12" column="1">FIGURE 7. Comparative larval oral discs: Litoria aurifera sp. nov. and Litoria meiriana. A = L. meiriana stage 35, Nawurlandja Rock, Kakadu National Park, Northern Territory. B = L. aurifera stage 37, Creek off Bachsten Creek, Prince Regent River Nature Reserve, Western Australia. Note continuous papillae around disc margin. Bar represents 1 mm.</caption>
+        </region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="107" page="12" column="1">Call analysis</h1>
+        <region class="DoCO:TextChunk" id="117" page="12" column="1">In the recordings of L. aurifera we could distinguish three distinct call types: 'advertisement', 'squeak' and 'grind'. Males in a chorus typically produced squeaks, then grinds that led into a bout of advertisement calls, although we sometimes initially recorded a bout of advertisement calls that were followed by squeaks and grinds. For all five males we only analysed one significant bout of advertisement calls because frogs were calling intermittently and were easily disturbed. For L. meiriana we recognised two call types: advertisement and squeak. Squeak calls occurred between bouts of advertisement calling, but in the terminal stages of advertisement call bouts (the last three to five calls) a squeak was sometimes added to the end of a standard advertisement call. Squeak calls were often preceded by a very short, low intensity pulse train comprising 1–8 pulses. On rare occasions this pulse train <marker type="page" number="13"/><marker type="block"/> was extended and the intensity of the opening pulse train was raised, making them sound more like advertisement calls with a following squeak, or like the grind call in L. aurifera. We analysed then averaged data from three advertisement calls per male (middle of a call bout for L. aurifera and beginning, middle and end of a call bout for L. meiriana). We report detailed analyses of advertisement calls only, but report the rate of production of squeaks and grinds in the total call sequence recorded. The advertisement call of L. aurifera is a short pulse train (0.15 sec duration), 40 pulses per call at 276 pulses per second (at 27.8 ̊C). The call has two frequency components – the low frequency components rise from 2300 to 2700 Hz and the high frequency from 4000 to 5000 Hz across the call duration. Males call in bouts which are separated by randomly emitted ‘squeak’ calls followed by a series of ‘grind’ calls before bouts of advertisement calls. Squeaks have higher frequencies and three frequency bands, grind calls have more pulses and lower pulse rates than advertisement calls (<xref ref-type="fig" rid="F8" id="112" class="deo:Reference">Figure 8</xref>). Comparisons of call parameters in L. aurifera and L. meiriana are given in <xref ref-type="table" rid="T2" id="113" class="deo:Reference">Table 2</xref> and calls and calling sequences are illustrated in Figures 8 and 9. The calls of the two species differ in four major ways:<marker type="block"/> i) L. aurifera produces three call types: squeak, grind and advertisement; L. meiriana only produces squeaks and advertisement calls (Figures 8, 9) with the proportion of advertisement calls much higher in L. meiriana. ii) Advertisement calls of L. aurifera have lower pulse rates but more pulses per call and consequently much longer advertisement calls than L. meiriana. iii) Calls of L. aurifera have two frequency peaks but those of L. meiriana have three. iv) Calls of both species have a degree of frequency modulation across the call but this is more marked in L. aurifera where the fundamental frequency rises by about 400 Hz across the call but only by 100 Hz in L. meiriana between the first five and last five pulses in advertisement calls (<xref ref-type="table" rid="T2" id="115" class="deo:Reference">Table 2</xref>, <xref ref-type="fig" rid="F8" id="116" class="deo:Reference">Figure 8</xref>).</region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="109" page="12" column="1">50</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="110" page="12" column="1">· Zootaxa 2550 © 2010 Magnolia Press</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="111" page="12" column="1">ANSTIS ET AL.</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="118" page="13" column="1">Comparisons with other species</h1>
+        <region class="DoCO:TextChunk" id="158" page="13" column="1">As adults, Litoria aurifera can only be confused morphologically with L. meiriana. There is nothing unique about this high degree of similarity as there are numerous anuran species that are morphologically very similar and only easily distinguished by calls or DNA. More unusual here is the situation whereby the main morphological distinction between L. aurifera and L. meiriana is most evident at the tadpole stage, when the species are strikingly different. Adult morphology. The small size of adult Litoria aurifera (18–22 mm) overlaps with only three other Australian hylid species: L. meiriana (16–21 mm), L. microbelos (14–20 mm; <xref ref-type="bibr" rid="R5" id="119" class="deo:Reference">Cogger 1966</xref>; <xref ref-type="bibr" rid="R15" id="120" class="deo:Reference">Tyler &amp; Knight 2009</xref>) and L. bicolor (males to 23 mm; <xref ref-type="bibr" rid="R15" id="121" class="deo:Reference">Tyler &amp; Doughty 2009</xref>). Neither of the latter two is found in rocky environments. Litoria bicolor is readily distinguished by its biphasic call and green dorsal colour. Litoria microbelos is usually smaller than L. aurifera and has a much more slender body, more pointed snout, smooth skin and less toe-webbing than L. aurifera. <xref ref-type="table" rid="T1" id="122" class="deo:Reference">Table 1</xref> presents key morphological measurements of L. aurifera and L. meiriana. Comparison of these failed to reveal any conspicuous differences, and slight differences described here are not sufficient to reliably distinguish the species. While SVL, TL and HW are slightly greater for L. aurifera, there are no other differences in any of the variables measured. Moreover, the overall appearance of both taxa is extremely similar. The shape of the snout of the preserved holotype of each species appears slightly different in dorsal view, with L. aurifera having a slightly more elongate pointed snout than L. meiriana (<xref ref-type="fig" rid="F1A" id="123" class="deo:Reference">Figure 1A</xref>, C), but this character was more difficult to determine given the variable state of preserved specimens. Some slight differences in colour and skin texture were noted. In life at night, L. aurifera appear to have a more uniform dorsal colour than L. meiriana, often infused with a reddish hue. More contrasting mottling becomes more obvious during the day (<xref ref-type="fig" rid="F2C" id="124" class="deo:Reference">Figure 2C</xref>, D). In preservative they are almost always lighter than L. meiriana, and the pale tubercles along the flanks are usually more prominent on a darker background colour in L. meiriana than in L. aurifera.<marker type="page" number="14"/><marker type="block"/> Tadpole morphology and behaviour. Tables 3 and 4 summarise key differences noted between the tadpoles of L. aurifera and L. meiriana. Comparisons of tadpole morphology and behaviour between the two showed the following differences in body proportions, pigmentation and features of the oral disc:<marker type="block"/> i) Differences in pigmentation include the black dorsal colour of L. aurifera with distinctive large gold botches, and the predominantly brown or golden brown dorsum of L. meiriana without these large gold blotches. The bitonal or tritonal tail of L. aurifera (black and gold infused with red in some populations) differs markedly from that of L. meiriana (Figures 5, 6). ii) The two species differ in features of the oral disc. Litoria aurifera has a more suctorial oral disc than L. meiriana, having marginal papillae that completely surround the disc and more numerous submarginal papillae (especially around the posterior corners), whereas L. meiriana has a medial gap in the anterior papillae and submarginal papillae are not as numerous (<xref ref-type="fig" rid="F7" id="137" class="deo:Reference">Figure 7</xref>). iii) The eyes are positioned very slightly further posteriorly from the tip of the snout in L. aurifera than in L. meiriana. iv) The eyes are slightly further apart in L. aurifera. v) The spiracle opens slightly further along the body in L. aurifera.<marker type="block"/> Tadpoles of L. aurifera can be differentiated from tadpoles of all other Australian anurans by their unique and striking pigmentation including the bitonal (or tritonal) tail and distinctive gold blotches on a black dorsal background, which are not present in combination in any other Australian species (Anstis, unpublished). In late stages (40-41) when dorsal colour changes to brown with faded or no gold blotches (apart from some<marker type="page" number="15"/><marker type="block"/> lateral ones), tadpoles can still be differentiated from those of L. meiriana by the continuous anterior marginal papillae. They can be distinguished from other sympatric saxicoline species including Crinia fimbriata, Litoria cavernicola, L. coplandi, L. staccato, L. watjulumensis, Notaden weigeli and Limnodynastes lignarius (<xref ref-type="bibr" rid="R7" id="143" class="deo:Reference">Davies et al. 1994</xref>; <xref ref-type="bibr" rid="R14" id="144" class="deo:Reference">Tyler et al. 1983</xref>; Anstis unpublished) by a combination of their smaller body size, dramatic pigmentation, stream-dwelling adaptations including body and tail shape and the suctorial oral disc.<marker type="block"/> Call structure. The advertisement calls of L. aurifera and L. meiriana are broadly similar but there are also some fundamental differences, particularly in number of pulses per call, pulse rate and consequently call duration (<xref ref-type="table" rid="T2" id="150" class="deo:Reference">Table 2</xref>). Given the two species are allopatric there is no reason to expect more significant call differences, and the differences observed may be due to temperature differences (higher in L. meiriana, <xref ref-type="table" rid="T2" id="151" class="deo:Reference">Table 2</xref>), to interaction with locally sympatric frog species or adaptations to generate effective sound transmission in local habitat types. Although characterised here as differences between species, we need to be cautious about their significance as the differences are comparable to variation reported within other hylid species from northern Australia (<xref ref-type="bibr" rid="R6" id="152" class="deo:Reference">Davies et al. 1983</xref>). For example, differences between pulse rates in calls of L. meiriana and L. aurifera (23.8%) are comparable to pulse rate variation in L. pallida (28%) across sites separated by approximately 1200 km and there is a 25% rise in pulse rate associated with a 0.4 ̊C rise in temperature between sites in L. inermis. Differences in pulse number between L. meiriana and the new taxon are high (40.3 vs 25.2), but no greater than variation in pulse number reported between sites for some species reported by Davies et al. (1983; e.g. long calls L. inermis 17.7–39.7, L. pallida 63.5-81.3, L. tornieri, 23.8–35). Comparisons of calls between L. aurifera and L. meiriana would benefit from critical analyses of homology of call types, impacts of chorus density and temperature on calling patterns and structure, and they<marker type="page" number="16"/><marker type="block"/> reiterate the observations by <xref ref-type="bibr" rid="R6" id="157" class="deo:Reference">Davies et al. (1983)</xref> that northern Australian hylid frogs have complex but not uninterpretable calling patterns that deserve more careful analysis.</region>
+        <outsider class="DoCO:TextBox" type="footer" id="126" page="13" column="1">A NEW SPECIES OF LITORIA</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="127" page="13" column="1">Zootaxa 2550 © 2010 Magnolia Press ·</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="128" page="13" column="1">51</outsider>
+        <region class="DoCO:TableBox" id="T2">
+          <caption class="deo:Caption" id="129" page="14" column="1">TABLE 2. Comparison of advertisement calls of Litoria aurifera sp. nov. and Litoria meiriana. Data are means of calls from 5 males for both species. For % of call types all recorded calls were included for L. aurifera. For L. meiriana there were clear bouts of calling and % reflect average number per complete bout and complete intervals between bouts for squeak calls. Component Litoria aurifera Litoria meiriana Duration (sec) 0.15±0.01 0.076±0.003 # Pulses 40.3±1.5 25.2±0.8 Pulses.sec -1 275.9±2.6 341.5±2.2</caption>
+          <content>
+            <table class="DoCO:Table" number="2" page="14">
+              <thead class="table"/>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Calls.sec -1</td>
+                  <td class="table"> 3.0±0.2</td>
+                  <td class="table"> 4.6±0.2</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Frequency (Hz) first 5 pulses</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> low</td>
+                  <td class="table"> 2338± 42</td>
+                  <td class="table"> 2450±64</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> mid</td>
+                  <td class="table"> 4050±264</td>
+                  <td class="table"> 4344±95</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> high</td>
+                  <td class="table"> –</td>
+                  <td class="table"> 6390±500</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Frequency (Hz) last 5 pulses</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> low</td>
+                  <td class="table"> 2700±282</td>
+                  <td class="table"> 2540±54</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> mid</td>
+                  <td class="table"> 5025±151</td>
+                  <td class="table"> 5125±52</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> high</td>
+                  <td class="table"> –</td>
+                  <td class="table"> 6390±500</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Call types (%)</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Squeak</td>
+                  <td class="table"> 36±10</td>
+                  <td class="table"> 10±3.1</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Grind</td>
+                  <td class="table"> 7±2</td>
+                  <td class="table"> very rare</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Advertisement</td>
+                  <td class="table"> 57±12</td>
+                  <td class="table"> 90±3.1</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Temperature (oC)</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Mean</td>
+                  <td class="table"> 27.8±0.04</td>
+                  <td class="table"> 30.5±0.5</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Range</td>
+                  <td class="table"> 26.6–28.8</td>
+                  <td class="table"> 29.0–30.9</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="130" confidence="possible" page="14" column="1">4.6±0.2</region>
+          <region class="TableInfo" id="131" confidence="possible" page="14" column="1">2450±64 4344±95 6390±500</region>
+          <region class="TableInfo" id="132" confidence="possible" page="14" column="1">2540±54 5125±52 6390±500</region>
+          <region class="TableInfo" id="133" confidence="possible" page="14" column="1">10±3.1 very rare 90±3.1</region>
+          <region class="TableInfo" id="134" confidence="possible" page="14" column="1">Calls.sec -1 3.0±0.2 Frequency (Hz) first 5 pulses low 2338± 42 mid 4050±264 high – Frequency (Hz) last 5 pulses low 2700±282 mid 5025±151 high – Call types (%) Squeak 36±10 Grind 7±2 Advertisement 57±12 Temperature (oC) Mean 27.8±0.04 Range 26.6–28.8</region>
+          <region class="TableInfo" id="135" confidence="possible" page="14" column="1">30.5±0.5 29.0–30.9</region>
+        </region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="140" page="14" column="1">52</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="141" page="14" column="1">· Zootaxa 2550 © 2010 Magnolia Press</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="142" page="14" column="1">ANSTIS ET AL.</outsider>
+        <region class="DoCO:TableBox" id="T3">
+          <caption class="deo:Caption" id="149" page="15" column="1">TABLE 3. Key differences between larvae of Litoria aurifera sp. nov. and Litoria meiriana. Only features where differences are noted are included. Ratios represent the mean in each case (refer <xref ref-type="table" rid="T4" id="146" class="deo:Reference">Table 4</xref>). Feature L. meiriana L. aurifera Pigmentation Dorsum and sides predominantly bright gold, Dorsum and sides black with large bright gold (<xref ref-type="fig" rid="F7" id="147" class="deo:Reference">Fig. 7</xref>,8) golden brown or darker brown, with contrasting blotches and fine gold flecks around these (less dark areas showing through gold over vertebral flecks in small tadpoles). Three prominent large, region, brain and nares. Dark brown spots and rounded, symmetrical gold blotches on snout. patches in some. Bright gold patch at posterior end of body on each side of tail adjacent to tail muscle present in some (eastern NT). Iris golden, darker at main compass points. Iris dense black with dull copper-gold iridophores mainly above and below pupil. Ventral surface transparent down middle with Ventral surface transparent down middle of fine iridophores on either side; silver-copper a b d o m e n wi t h d e n s e b la c k o n e i t h e r s id e; sheen develops over abdomen in some fully melanophore stippling over anterior half. grown tadpoles. Tail fins flecked with melanophores; dorsal tail Tail pigment bitonal – translucent pale or deeper muscle brown with gold clusters or patches in yellow anteriorly with or without a few black most, sides brown or pale cream, with fine patches, and dense black posteriorly, often with a melanophores or darker patches. few irregular ‘windows’ in fins tinted with pale gold and/or deep red. Morphology Ratio SE (snout to eye) to BL (body length) = Ratio SE/BL = 0.25. 0.22. Ratio IO (interorbital span) to EBW (width of Ratio IO/EBW = 0.44. body at eye level) = 0.40. Ratio SS (snout to spiracle) to BL (body length) Ratio SS/BL = 0.61. = 0.59. Oral Disc Disc not suctorial: medial gap in anterior Disc suctorial: papillae continuous around disc. (<xref ref-type="fig" rid="F5" id="148" class="deo:Reference">Fig. 5</xref>) papillae, single row anterior papillae on either one to two rows of anterior papillae. side of gap. A few submarginal papillae in Numerous crowded papillae in posterior corners, 2− posterior corners, 1–3 rows posterior papillae. 3 rows posterior papillae.</caption>
+        </region>
+        <outsider class="DoCO:TextBox" type="footer" id="154" page="15" column="1">A NEW SPECIES OF LITORIA</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="155" page="15" column="1">Zootaxa 2550 © 2010 Magnolia Press ·</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="156" page="15" column="1">53</outsider>
+        <region class="DoCO:TableBox" id="T4">
+          <caption class="deo:Caption" id="160" page="16" column="1">TABLE 4. Comparisons and ratios of selected morphometric characters of tadpoles of Litoria aurifera sp. nov. and Litoria meiriana at stages 35–40. Mean with range in parenthesis. Body length (BL), snout to eye (SE), interorbital span (IO), body width at eye level (EBW), snout to spiracle (SS) and ratios of these. N = number in stage. Stages after <xref ref-type="bibr" rid="R11" id="159" class="deo:Reference">Gosner (1960)</xref>.</caption>
+          <content>
+            <table class="DoCO:Table" number="5" page="16">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Species</th>
+                  <th class="table"> N</th>
+                  <th class="table"> St</th>
+                  <th class="table"> BL</th>
+                  <th class="table"> SE</th>
+                  <th class="table"> IO</th>
+                  <th class="table"> EBW</th>
+                  <th class="table"> SS</th>
+                  <th class="table"> SE/BL</th>
+                  <th class="table"> IO/EBW</th>
+                  <th class="table"> SS/BL</th>
+                </tr>
+                <tr class="table">
+                  <th class="table"> Litoria</th>
+                  <th class="table"> 4</th>
+                  <th class="table"> 36–40</th>
+                  <th class="table"> 10.0</th>
+                  <th class="table"> 2.2</th>
+                  <th class="table"> 2.2</th>
+                  <th class="table"> 5.2</th>
+                  <th class="table"> 6.0</th>
+                  <th class="table"> 0.22</th>
+                  <th class="table"> 0.41</th>
+                  <th class="table"> 0.59</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> meiriana</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> (9.5–10.6)</td>
+                  <td class="table"> (2.1–2.4)</td>
+                  <td class="table"> (2.1–2.3)</td>
+                  <td class="table"> (5.0–5.3)</td>
+                  <td class="table"> (5.6–6.4)</td>
+                  <td class="table"> (0.21–0.23)</td>
+                  <td class="table"> (0.39–0.43)</td>
+                  <td class="table"> (0.57–0.63)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Litoria</td>
+                  <td class="table"> 6</td>
+                  <td class="table"> 35–39</td>
+                  <td class="table"> 10.4</td>
+                  <td class="table"> 2.7</td>
+                  <td class="table"> 2.5</td>
+                  <td class="table"> 5.6</td>
+                  <td class="table"> 6.4</td>
+                  <td class="table"> 0.25</td>
+                  <td class="table"> 0.44</td>
+                  <td class="table"> 0.61</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> aurifera</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> (9.8–11.4)</td>
+                  <td class="table"> (2.3–2.9)</td>
+                  <td class="table"> (2.3–2.7)</td>
+                  <td class="table"> (5.3–6.0)</td>
+                  <td class="table"> (6.0–6.8)</td>
+                  <td class="table"> (0.22–0.27)</td>
+                  <td class="table"> (0.41–0.48)</td>
+                  <td class="table"> (0.58–0.69)</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="161" confidence="possible" page="16" column="1">Species N St BL SE IO EBW SS SE/BL IO/EBW SS/BL Litoria 4 36–40 10.0 2.2 2.2 5.2 6.0 0.22 0.41 0.59 meiriana (9.5–10.6) (2.1–2.4) (2.1–2.3) (5.0–5.3) (5.6–6.4) (0.21–0.23) (0.39–0.43) (0.57–0.63) Litoria 6 35–39 10.4 2.7 2.5 5.6 6.4 0.25 0.44 0.61 aurifera (9.8–11.4) (2.3–2.9) (2.3–2.7) (5.3–6.0) (6.0–6.8) (0.22–0.27) (0.41–0.48) (0.58–0.69)</region>
+        </region>
+        <region class="DoCO:TableBox" id="T5">
+          <caption class="deo:Caption" id="163" page="16" column="1">TABLE 5. Comparative measurements (mm) of Litoria aurifera sp. nov. and Litoria meiriana tadpoles. St = stage (after <xref ref-type="bibr" rid="R11" id="162" class="deo:Reference">Gosner, 1960</xref>); N = number in stage; TL = total length; BL = body length.. Mean with range in parenthesis. L. meiriana L. aurifera St N TL BL N TL BL 26 10 11.7 (8.4–20.0) 5.1 (3.8–8.1) 4 15.1 (13.8–16.1) 6.6 (6.3–6.8) 27 4 18.0 (16.0–19.3) 7.4 (6.3–8.7) 28 3 18.9 (17.0–20.5) 8.1 (6.9–9.3) 1 20.0 8.4 29 4 18.2 (17.2–20.5) 7.9 (7.1–9.0) 30 2 17.2, 21.5 7.4, 9.3 1 19.3 8.2 31 3 19.1 (17.0–21.0) 8.4 (7.2–9.3) 1 19.0, 21.7 8.1, 8.4 32 2 20.0, 20.0 8.5, 8.9 33 1 20.5 9.2 3 22.9 (19.5–24.3) 9.3 (8.4–9.8) 34 3 21.7 (21.5–22.0) 9.6 (9.3–10.0) 1 26.5 8.9 35 6 21.9 (21.0–23.3) 9.7 (9.2–10.3) 8 24.1 (22.5–26.7) 9.8 (9.3–10.6) 36 2 23.0, 23.0 9.5, 10.3 2 24.0, 26.7 9.2, 11.4 37 3 24.6 (23.0–26.4) 10.1 (9.7–10.6) 3 23.7 (23.3–24.3) 9.9 (9.5–10.6) 38 1 24.0 10.1 39 2 27.0, 29.0 10.3, 10.5 40 1 20.0, 25.1 8.5, 10.0 2 24.7, 25.0 9.0, 10.0 41 6 26.3 (25.5–27.2) 10.0 (9.0–10.5)</caption>
+        </region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="164" page="16" column="1">Comments</h1>
+        <region class="DoCO:TextChunk" id="176" page="16" column="1">Litoria aurifera is the fourth new frog species recently discovered and described from the Kimberley region. The existence of undiscovered species, especially in the rugged high rainfall area of the north-west, may reflect the impact of isolation by historically intermittent biogeographic barriers (cf. <xref ref-type="bibr" rid="R4" id="165" class="deo:Reference">Bowman et al. 2010</xref>) and the difficulty of exploring such terrain, especially in the wet season. Although our preliminary field studies were not comprehensive in terms of area covered, our observations combined with those of M. and R. Barrett suggest that L. aurifera tadpoles appear to have a more patchy ‘niche’ distribution and are only known to occur in some first order creeks and not in larger streams within the north-west Kimberley. This implies that the tadpoles may have rather specialised habitat requirements. Such specialisation could result in a potentially more vulnerable status for this species than for the many other more geographically widespread frogs in this region, especially if this frog is not locally abundant (<xref ref-type="bibr" rid="R17" id="166" class="deo:Reference">Williams et al. 2009</xref>).<marker type="page" number="18"/><marker type="block"/> Other escarpment-dwelling species found in the Prince Regent River area are also found in the essentially similar Mitchell Plateau escarpment country (about 95–143 km north-east of the Prince Regent study area), including Litoria meiriana, L. cavernicola, L. staccato, L. watjulumensis, L. coplandi, Limnodynastes lignarius, Notaden weigeli, Crinia fimbriata and Uperoleia borealis. More field work and molecular genetic studies will be necessary to determine whether Litoria aurifera occurs further north in similar habitats to that described at the type locality in the Prince Regent River Nature Reserve. Currently L. aurifera seems to be locally common and secure in the Nature Reserve, but any future impacts from increasing fires, mining activities, livestock encroachment and other feral species will need to be addressed.</region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="168" page="16" column="1">54</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="169" page="16" column="1">· Zootaxa 2550 © 2010 Magnolia Press</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="170" page="16" column="1">ANSTIS ET AL.</outsider>
+        <region class="DoCO:FigureBox" id="F8">
+          <image class="DoCO:Figure" src="h3.page_017.image_09.png" thmb="h3.page_017.image_09-thumb.png"/>
+          <caption class="deo:Caption" id="172" page="17" column="1">FIGURE 8. Comparison of call structures in Litoria aurifera sp. nov. and Litoria meiriana. A = L. aurifera: 1) advertisement call with following squeak 2) grind with following squeak. B = L. meiriana, advertisement call with following squeak. In all cases the upper trace is an oscillogram and the lower trace a sound spectrogram. Spectrogram traces have been optimised to illustrate frequency bands and modulation and do not necessarily reflect analytical settings reported in the text. Bar represents 0.1 seconds.</caption>
+        </region>
+        <outsider class="DoCO:TextBox" type="footer" id="173" page="17" column="1">A NEW SPECIES OF LITORIA</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="174" page="17" column="1">Zootaxa 2550 © 2010 Magnolia Press ·</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="175" page="17" column="1">55</outsider>
+        <region class="DoCO:FigureBox" id="F9">
+          <caption class="deo:Caption" id="177" page="18" column="1">FIGURE 9. Sample call sequences for Litoria meiriana and Litoria aurifera sp nov. Sequences for L. aurifera were overlapped by calls of a Uperoleia species which were filtered out with a bandpass filter (1–2 kHz) and are obvious in the sequence as sections with a very narrow background level. Bar represents 5 seconds.</caption>
+        </region>
+      </section>
+      <section class="deo:Acknowledgements">
+        <h1 class="DoCO:SectionTitle" id="178" page="18" column="1">Acknowledgements</h1>
+        <region class="DoCO:TextChunk" id="179" page="18" column="1">We thank Alcoa of Australia for funding the Alcoa Frog Watch program that made the expeditions to the northwest Kimberley possible (PD), Australian Biological Resources Study grants (MA and LP) and the Wildlife Conservation Fund (LP) for their support. For their initial discovery of the tadpole of this species and use of photos (Figures 6E, F), we thank M. and R. Barrett (in part funded by MJT). For support in the field we thank P. Kendrick, M. and R. Barrett (Botanic Gardens and Parks Authority), and B. Maher (Fitzroy Helicopters). For helpful comments on this manuscript we thank Hal Cogger. We also thank Mark Hutchinson and Carolyn Kovach (SAMA) for providing access to specimens, and two anonymous reviewers for their helpful comments.</region>
+      </section>
+      <section class="DoCO:Bibliography">
+        <h1 class="DoCO:SectionTitle" id="180" page="18" column="1">References</h1>
+        <ref-list class="DoCO:BiblioGraphicReferenceList">
+          <ref rid="R1" class="deo:BibliographicReference" id="182" page="18" column="1">Alcoa Frog Watch (2008) A site dedicated to providing information on all aspects of frogs of Western Australia. Available from <ext-link ext-link-type="uri" href="http://frogwatch.museum.wa.gov.au/." id="181">http://frogwatch.museum.wa.gov.au/.</ext-link> (accessed 1 April 2010).</ref>
+          <ref rid="R2" class="deo:BibliographicReference" id="183" confidence="possible" page="18" column="1">Anstis, M. (2002) Tadpoles of south-eastern Australia: a guide with keys. Reed New Holland Press, Sydney, NSW, Australia, 281 pp.</ref>
+          <ref rid="R3" class="deo:BibliographicReference" id="184" confidence="possible" page="18" column="1">Anstis, M. &amp; Tyler, M.J. (2005) Breeding biology of Litoria microbelos Cogger 1966 (Anura: Hylidae). Transactions of the Royal Society of South Australia, 129, 43–48.</ref>
+          <ref rid="R4" class="deo:BibliographicReference" id="185" confidence="possible" page="18" column="1">Bowman, D.M.J.S., Brown, G.K., Braby, M.F., Brown, J.R., Cook, L.G., Crisp, M.D., Ford, F., Haberle, S., Hughes, J., Isagi, Y., Joseph, L., McBride, J., Nelson, G. &amp; Ladiges, P.Y. (2010) Biogeography of the Australian monsoon tropics. Journal of Biogeography, 37, 201–216.</ref>
+          <ref rid="R5" class="deo:BibliographicReference" id="189" page="19" column="1">Cogger, H.G. (1966) Hyla dorsalis microbelos. A new hylid frog from Australia. Australian Zoologist, 13, 220–227.</ref>
+          <ref rid="R6" class="deo:BibliographicReference" id="190" confidence="possible" page="19" column="1">Davies, M., Martin, A.A. &amp; Watson, G.F. (1983) Redefinition of the Litoria latopalmata species group (Anura: Hylidae). Transactions of the Royal Society of South Australia, 107, 87–108.</ref>
+          <ref rid="R7" class="deo:BibliographicReference" id="191" confidence="possible" page="19" column="1">Davies, M., Martin, A.A. &amp; Watson, G.F. (1994) Morphology and reproductive biology of Limnodynastes salmini, L. convexiusculus and Megistolotis lignarius (Anura: Leptodactylidae: Limnodynastinae). Transactions of the Royal Society of South Australia, 118(3), 149–169.</ref>
+          <ref rid="R8" class="deo:BibliographicReference" id="192" confidence="possible" page="19" column="1">Doughty, P. &amp; Anstis, M. (2007) A new species of rock-dwelling hylid frog (Anura: Hylidae) from the eastern Kimberley region of Western Australia. Records of the Western Australian Museum, 23, 241–257.</ref>
+          <ref rid="R9" class="deo:BibliographicReference" id="193" confidence="possible" page="19" column="1">Doughty, P. &amp; Roberts, J.D. (2008) A new species of Uperoleia (Anura: Myobatrachidae) from the northwest Kimberley, Western Australia. Zootaxa, 1939, 10–18.</ref>
+          <ref rid="R10" class="deo:BibliographicReference" id="194" confidence="possible" page="19" column="1">Doughty, P., Anstis, M. &amp; Price, L. (2009) A new species of Crinia (Anura: Myobatrachidae) from the high rainfall zone of the northwest Kimberley, Western Australia. Records of the Western Australian Museum, 25(2), 127–144.</ref>
+          <ref rid="R11" class="deo:BibliographicReference" id="195" confidence="possible" page="19" column="1">Gosner, K.L. (1960) A simplified table for staging anuran embryos and larvae with notes on identification. Herpetologica, 16, 183–190.</ref>
+          <ref rid="R12" class="deo:BibliographicReference" id="196" confidence="possible" page="19" column="1">Tyler, M.J. (1962) On the preservation of anuran tadpoles. The Australian Journal of Science, 25 (5), 222. Tyler, M.J. (1968) Papuan hylid frogs of the genus Hyla. Zoologische Verhandelingen, 96, 1–203.</ref>
+          <ref rid="R13" class="deo:BibliographicReference" id="197" confidence="possible" page="19" column="1">Tyler, M.J. (1969) A synopsis of the frogs of the Genus Hyla of north-western Australia, with the description of a new species. Records of the South Australian Museum, 16 (1), 1–11.</ref>
+          <ref rid="R14" class="deo:BibliographicReference" id="198" confidence="possible" page="19" column="1">Tyler, M.J., Crook, G.A. &amp; Davies, M. (1983) Reproductive biology of the frogs of the Magela Creek system, Northern Territory. Records of the South Australian Museum, 18(18), 415–440.</ref>
+          <ref rid="R15" class="deo:BibliographicReference" id="199" confidence="possible" page="19" column="1">Tyler, M.J. &amp; Doughty, P. (2009) Field Guide to frogs of Western Australia, fourth edition. Western Australian Museum, 158 pp.</ref>
+          <ref rid="R16" class="deo:BibliographicReference" id="200" confidence="possible" page="19" column="1">Tyler, M.J. &amp; Knight, F. (2009) Field Guide to the frogs of Australia. CSIRO Publishing, Collingwood, Vic. Australia, 188 pp.</ref>
+          <ref rid="R17" class="deo:BibliographicReference" id="201" confidence="possible" page="19" column="1">Williams, S.E., Williams, Y.M., Isaac, J.L., Shoo, L.P. &amp; Johnson, C.N. (2009) Ecological specialization and population size in a biodiversity hotspot: How rare species avoid extinction. Proceedings of the National Academy of Science USA, 106, 19737–19741.</ref>
+          <ref rid="R18" class="deo:BibliographicReference" id="202" confidence="possible" page="19" column="1">Young, J.E., Tyler, M.J. &amp; Kent, S.A. (2005) Diminutive new species of Uperoleia Grey (Anura: Myobatrachidae) from the vicinity of Darwin, Northern Territory, Australia. Journal of Herpetology, 39, 603–609.</ref>
+        </ref-list>
+        <outsider class="DoCO:TextBox" type="page_nr" id="186" page="18" column="1">56</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="187" page="18" column="1">· Zootaxa 2550 © 2010 Magnolia Press</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="188" page="18" column="1">ANSTIS ET AL.</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="203" page="19" column="1">APPENDIX. Adult material measured</h1>
+        <region class="DoCO:TextChunk" id="204" confidence="possible" page="19" column="1">Litoria meiriana SAMA R 9014–15; 9017; 9019; 9021; 9023; 9077; 9078; 9080; 9082; 9085; 11662; 14513; 15638; 17779A,B and C; 17911; 25976; 25977; 25978; 39242; 39244; 39245; 51136; WAM R 162525; 162528; 162530–33; 162546; 162600–01; 165794. Litoria aurifera WAM R 167748; 167796; 168000; 168003–4; 168006; 168008–10; 168013–14; 168016–18; 168058–59; 168062–63; 168095; 168114; 168116; 168118; 168129; 168134; 168182–85; 169913. SAMA R63001–02</region>
+        <outsider class="DoCO:TextBox" type="footer" id="205" page="19" column="1">A NEW SPECIES OF LITORIA</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="206" page="19" column="1">Zootaxa 2550 © 2010 Magnolia Press ·</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="207" page="19" column="1">57</outsider>
+      </section>
+    </body>
+  </article>
+</pdfx>

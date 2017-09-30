@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0031-1049</journal-id>
+<journal-title><![CDATA[Papéis Avulsos de Zoologia (São Paulo)]]></journal-title>
+<abbrev-journal-title><![CDATA[Pap. Avulsos Zool. (São Paulo)]]></abbrev-journal-title>
+<issn>0031-1049</issn>
+<publisher>
+<publisher-name><![CDATA[Museu de Zoologia da Universidade de São Paulo]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0031-10492005000500001</article-id>
+<article-id pub-id-type="doi">10.1590/S0031-10492005000500001</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[A new species of Echimys Cuvier, 1809 (Rodentia, Echimyidae) from Brazil]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Iack-Ximenes]]></surname>
+<given-names><![CDATA[Gilson Evaristo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Vivo]]></surname>
+<given-names><![CDATA[Mario de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Percequillo]]></surname>
+<given-names><![CDATA[Alexandre Reis]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade de São Paulo Museu de Zoologia ]]></institution>
+<addr-line><![CDATA[São Paulo SP]]></addr-line>
+<country>Brasil</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal da Paraíba Centro de Ciências Exatas e da Natureza Departamento de Sistemática e Ecologia]]></institution>
+<addr-line><![CDATA[João Pessoa PB]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2005</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2005</year>
+</pub-date>
+<volume>45</volume>
+<numero>5</numero>
+<fpage>51</fpage>
+<lpage>60</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0031-10492005000500001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0031-10492005000500001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0031-10492005000500001&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[Here we describe a new species of Echimyidae Amazonian rodent, Echimys vieirai sp. nov., based on two individuals from the south bank of Amazon river between the lower Madeira river to the right bank of the Tapajós, respectively in the Brazilian states of Amazonas and Pará, Brazil. The main diagnostic characteristic of this new species is the presence of a dorsal median dark maroon stripe on the head, running from the rostrum to the nape. Skull morphology is quite similar to that of Echimys chrysurus (Zimmermann, 1780), but our new species differ from other species in the genus by the development of the alisphenoid canal and dp4 morphology. Additionally, we offer a refinement of the diagnosis of the genera Echimys and Makalata.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="pt"><p><![CDATA[É apresentada a descrição de uma nova espécie de Echimyidae, Echimys vieirai sp. nov., baseado em dois espécimens coletados em Barreirinha, rio Tapajós, Pará e Virgem Guajará, Amazonas. A principal característica diagnóstica desta nova espécie é a presença de uma faixa mediana marrom na cabeça que se extende do dorso até a nuca. A morfologia do crânio é similar a de Echimys chrysurus (Zimmermann, 1780), e difere das demais espécies do gênero em relação ao desenvolvimento do canal do alisfenóide e a morfologia do dp4. É apresentado também uma nova diagnose do gênero Echimys e um refinamento da diagnose dos gênero Makalata.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[Echimyidae]]></kwd>
+<kwd lng="en"><![CDATA[Echimys]]></kwd>
+<kwd lng="en"><![CDATA[arboreal spiny rats]]></kwd>
+<kwd lng="en"><![CDATA[taxonomy]]></kwd>
+<kwd lng="en"><![CDATA[distribution]]></kwd>
+<kwd lng="pt"><![CDATA[Echimyidae]]></kwd>
+<kwd lng="pt"><![CDATA[Echimys]]></kwd>
+<kwd lng="pt"><![CDATA[equimídeos arborícolas]]></kwd>
+<kwd lng="pt"><![CDATA[taxonomia]]></kwd>
+<kwd lng="pt"><![CDATA[distribuição]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="verdana"><B> A new species of <I>Echimys</I> Cuvier, 1809    (Rodentia, Echimyidae) from Brazil </B></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><B>Gilson Evaristo Iack-Ximenes<SUP>I, II</SUP>;    Mario de Vivo<SUP>I</SUP>; Alexandre Reis Percequillo<SUP>III</SUP> </B></font></p>     <p><font size="2" face="Verdana"><SUP>I</SUP>Mastozoologia, Museu de Zoologia,    Universidade de S&atilde;o Paulo, Caixa Postal 42494-970, 04218-970, S&atilde;o    Paulo, SP, Brasil    <br>   <SUP>II</SUP>E-mail: <a href="mailto:giliackx@yahoo.com">giliackx@yahoo.com</a>    <br>   <SUP>III</SUP>Mastozoologia, Departamento de Sistem&aacute;tica e Ecologia Centro    de Ci&ecirc;ncias Exatas e da Natureza Universidade Federal da Para&iacute;ba,    Caixa Postal 5133, 58051-970, Jo&atilde;o Pessoa, PB, Brasil</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><B>ABSTRACT</B></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Here we describe a new species of Echimyidae    Amazonian rodent, <i>Echimys vieirai</i> sp. nov., based on two individuals    from the south bank of Amazon river between the lower Madeira river to the right    bank of the Tapaj&oacute;s, respectively in the Brazilian states of Amazonas    and Par&aacute;, Brazil. The main diagnostic characteristic of this new species    is the presence of a dorsal median dark maroon stripe on the head, running from    the rostrum to the nape. Skull morphology is quite similar to that of <i>Echimys    chrysurus</i> (Zimmermann, 1780), but our new species differ from other species    in the genus by the development of the alisphenoid canal and dp4 morphology.    Additionally, we offer a refinement of the diagnosis of the genera <i>Echimys</i>    and <i>Makalata</i>. </font></p>     <p><font size="2" face="Verdana"><b>Keywords: </b>Echimyidae, <I>Echimys,</I>    arboreal spiny rats, taxonomy, distribution. </font></p> <hr size="1" noshade>     <p><font size="2" face="VERDANA"><B>RESUMO</B> </font></p>     <p><font size="2" face="Verdana">&Eacute; apresentada a descri&ccedil;&atilde;o    de uma nova esp&eacute;cie de Echimyidae, <i>Echimys vieirai</i> sp. nov.,    baseado em dois esp&eacute;cimens coletados em Barreirinha, rio Tapaj&oacute;s,    Par&aacute; e Virgem Guajar&aacute;, Amazonas. A principal caracter&iacute;stica    diagn&oacute;stica desta nova esp&eacute;cie &eacute; a presen&ccedil;a de uma    faixa mediana marrom na cabe&ccedil;a que se extende do dorso at&eacute; a nuca.    A morfologia do cr&acirc;nio &eacute; similar a de <i>Echimys chrysurus</i>    (Zimmermann, 1780), e difere das demais esp&eacute;cies do g&ecirc;nero em rela&ccedil;&atilde;o    ao desenvolvimento do canal do alisfen&oacute;ide e a morfologia do dp4. &Eacute;    apresentado tamb&eacute;m uma nova diagnose do g&ecirc;nero <i>Echimys</i> e    um refinamento da diagnose dos g&ecirc;nero <i>Makalata</i>. </font></p>     <p><font size="2" face="Verdana"><b>Palavras-chave:</b> Echimyidae, Echimys, equim&iacute;deos    arbor&iacute;colas, taxonomia, distribui&ccedil;&atilde;o. </font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>INTRODUCTION</B> </font></p>     <p><font size="2" face="Verdana">Arboreal echimyids comprise several species allocated    in twelve genera in three subfamilies (Carvalho, 2000). The genus <I>Echimys</I>    is included in the subfamily Echimyinae, and since Husson (1978), part of its    species content has been transferred to other genera, namely <I>Makalata</I>    Husson, 1978; <I>Callistomys</I> Emmons &amp; Vucetich, 1998; and <I>Phyllomys</I>    Lund, 1839 (Emmons <I>et al.</I>, 2002). Currently, <I>Echimys</I> is restricted    to three species according to Emmons &amp; Feer (1997): <I>E. chrysurus</I>    (Zimmermann, 1780), <I>E. saturnus</I> (Wagner, 1845), and <I>E. semivillosus</I>    (Geoffroy, 1838). A fourth species is here described, based on two specimens    from the Museu de Zoologia, Universidade de S&atilde;o Paulo, and Museu Nacional,    Universidade Federal do Rio de Janeiro. Additional examination of material in    European and Brazilian collections allowed us to refine our comparisons. All    species are readily distinguished by size, pelage coloration, and some of them    by skull characters as well. </font></p>     <p><font size="2" face="Verdana">Known collecting localities of <I>Echimys</I>    include the Guyanas, North-Northeastern Brazil (Carvalho &amp; Tocchetton, 1969;    Pine, 1973; Husson, 1978; Miles <I>et al.</I>, 1981; Eisenberg, 1989; Oliveira    &amp; Mesquita, 1998; Eisenberg &amp; Redford, 1999), the eastern Amazon basin     and the eastern Andean foothills. <I>Echimys    chrysurus</I> occurs in the Guyana region, from the right bank of Essequibo    River eastwards, and in localities around the mouth of the Amazonas River and    in the State of Maranh&atilde;o, in Brazil. <I>E. saturnus</I> is known    from a few scattered localities in eastern Ecuador and central Peru, in the    upper Mara&ntilde;on River. <I>Echimys semivillosus</I> occurs in northern Colombia    and Venezuela. Our new species, known so far from the type locality, at the    right bank of the middle Tapaj&oacute;s River in Par&aacute;. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Here we describe <I>Echimys vieirai</I> sp. nov.,    compare it to other species in the genus, and discuss the genus distribution    as currently defined. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="verdana"><B>MATERIALS AND METHODS</B> </font></p>     <p><font size="2" face="Verdana">We have studied skins and skulls deposited in    the following collections: Museu de Zoologia da Universidade de S&atilde;o Paulo,    S&atilde;o Paulo (MZUSP); Museu Nacional, Universidade Federal do Rio de Janeiro,    Rio de Janeiro (MNRJ); The Natural History Museum, London (BMNH); Museum f&uuml;r    Naturkunde, Berlin (MNK); Naturhistorika Riksmuseet, Stockholm (NRM); Zoologische    Staatsammlung, M&uuml;nchen (ZSM); and Mus&eacute;e Nationale d'Histoire Naturelle,    Paris (MNHN). </font></p>     <p><font size="2" face="Verdana">We have recorded measurements from museum specimen    tags as follows: <I>head and body length</I> (HB); <I>tail length</I> (T); <I>ear    length</I> (E); and <I>hind foot length</I> (HF). When only <I>total length</I>    (TL) was originally furnished, we subtracted the recorded <I>tail length</I>    (T) from <I>total length</I> to obtain the head and body length, thus making    the derived values roughly comparable to our measurement scheme. </font></p>     <p><font size="2" face="Verdana">We have recorded skull measurements directly    from skulls, at the nearest tenth of millimeter. The measurements and their    definitions are as follows: <I>skull length</I> (SL): from the tip of the nasals    to the posteriormost part of the occipital region; <I>zygomatic breadth</I>    (ZB): largest distance across the external sides of the zygomatic arches; <I>frontal    constriction</I> (FC): the smaller distance across the orbital border of frontals;    <I>nasal length</I> (NL): greatest distance from the tip to the posteriormost    part of nasals; <I>squamosal breadth</I> (SB): distance across the external    projection of the squamosal crest taken at the level of the external auditory    meatus; <I>rostrum breadth</I> (RB): distance across both sides of the rostrum    at the premaxilar-maxilar suture; <I>bullar length</I> (BL): greatest distance    taken from a lateral aspect of the bulla from its juxtaposition to the paraoccipital    process to the bulla's anteriormost portion; <I>postpalatal length</I> (PPL):    from the anteriormost border of the foramen magnum to the anteriormost edge    of the mesopterygoid fossa; <I>palatal length</I> (PL): from the alveolar edge    of incisors to the anteriormost edge of the mesopterygoid fossa; <I>maxillary    tooth row length</I> (TRL): largest distance from the anteriormost border of    the fourth premolar to the posteriormost border of the third molar; <I>maxillary    breadth</I> (MB): greatest distance across the fourth premolars taken from their    alveolar borders; <I>first molar breadth</I> (M1B): greatest distance from lingual    to buccal borders of crown; <I>median length of parietals</I> (MLP): greatest    distance across the parietal's suture; <I>mandible length</I> (MBL): from the    lingual border of the incisors' alveoli to the posteriormost border of the postcondyloid    process; <I>mandible height</I> (MH): shortest distance taken vertically from    the uppermost part of the condyloid process to a plane passing from the lower    edge of the symphiseal suture to the lowermost edge of the angular process.    </font></p>     <p><font size="2" face="Verdana">We recognize three morphological age classes,    based on maxillary tooth eruption: <I>adult (III):</I> specimens with all maxillary    teeth fully erupted; <I>subadult (II):</I> specimens with the third molar fully    in the process of eruption; and <I>young (I):</I> all other conditions. </font></p>     <p><font size="2" face="Verdana">We employed Wahlert (1974, 1983, 1985) and Woods    &amp; Howlands (1979) for nomenclature of cranial foramina. Dental nomenclature    follows Lavocat (1976) and further considerations by Butler (1985) and Flynn    <I>et al.</I> (1985). Our reference to external morphology and coloration    for <I>E. semivillosus</I> is based on the original description by Geoffroy    (1838) and that of Geoffroy (1840), since we only had access to a single skull    of this species. </font></p>     <p><font size="2" face="Verdana">Distributional data on <I>Echimys</I> species    were obtained either by direct examination of specimens or from the literature.    In the latter case, we included only those references that we consider reliable    or else the type localities of valid species. </font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana"><B>RESULTS</B></font></p>     <p><b><font size="2" face="Verdana"><I>Echimys vieirai</I> sp. nov.</font></b></p>     <p><font size="2" face="Verdana"><I>Holotype:</I> MZUSP 26650, skin and skull,    young male, collected by P.E. Vanzolini in an E.P.A expedition. (Expedi&ccedil;&atilde;o    Permanente &agrave; Amaz&ocirc;nia) in June 24, 1970, field number E.P.A. 70.1327;    <I>Paratype:</I> MNRJ 67549, specimen in alcohol, young, collected by A. Parko    in Virgem Guajar&aacute;, Amazonas, field number 16. </font></p>     <p><font size="2" face="Verdana"><I>Type locality:</I> Barreirinha, right bank    of the Tapaj&oacute;s River, near S&atilde;o Luis do Tapaj&oacute;s, Par&aacute;    State, Brazil; geographic coordinates 04º25'S, 56º13'W (<a href="#fig01">Fig.    1</a>). </font></p>     <p><a name="fig01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/paz/v45n5/a05fig01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"> <I>Distribution:</I> known only from Barreirinha,    right bank of the Tapaj&oacute;s River, Par&aacute; State, Brazil and Virgem    Guajar&aacute; near to Borba, Madeira river, Amazonas State, Brazil. Probably    the distribution of <I>E. vieirai</I> ranges from mid to lower Tapaj&oacute;s    river to lower Madeira river. </font></p>     <p><font size="2" face="Verdana"><I>Etymology:</I> This new species is named after    Carlos Octaviano da Cunha Vieira, curator in charge of the mammal collection    of the Museu de Zoologia, University of S&atilde;o Paulo, from the early 1940's    until his death in 1958. Through his efforts, the mammal collection of the MZUSP    was greatly improved in both geographic coverage and size. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"><I>Diagnosis:</I> A generally brown spiny rat,    with a dark head distinct from the dorsum; special chromogenetic fields present    in the head, consisting of a black mask extending from the muzzle to above and    bellow the eyes, and a dark median maroon (brown tinted with a dark red tone)    stripe extending from the rostrum to the nape. </font></p>     <p><font size="2" face="Verdana"><I>Measurements:</I> See <a href="#tab01">Table    1</a>. </font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/paz/v45n5/a05tab01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><B><I>Description</I></B> </font></p>     <p><font size="2" face="Verdana">External morphology and pelage (<a href="#fig02">Fig.    2</a>): Head and body length approximately equal to tail length. Color of head    distinct from that of body, being darker than adjacent dorsum; the background    color of head is dark brown with black extending from around the muzzle to the    sides of mouth; from there the black extends to the mystacial region and backwards    to the eyes until the anterior half below the eye and to its entire length above.    Between the black stripes over the eyes there is a defined dark maroon stripe    (brown tinted with red). Mystacial vibrissae short, not extending beyond the    pinnae, entirely black. External face of pinnae slightly hirsute covered with    short black hairs. Internal face of pinnae only slightly hirsute, with long    black hairs in the outer border of pinnae. Body hairs consisting predominantly    of spines. Dorsal parts of the body distinct from crown, uniformly colored,    with sparse cover hairs dull brown in color and dense bicolored spines, dull    brown proximally becoming blackish distally. Dorsal parts of body only slightly    distinct from sides, dark brown becoming dull brown to the sides, not sharply    distinct from ventral body color. Fore and hindlegs proximally indistinct from    dorsolateral body color, being grayish brown; cover hairs weakly bicolored,    grayish proximally and yellowish distally; fore and hindfeet distinct from distal    parts of fore and hindlegs, dark brown; cover hairs uniformly dark brown. Ventral    surfaces indistinct from sides of body, being hirsute, covered with light-brown    hairs. Tail densely covered by long hairs, with tuft present, with tail scales    hardly visible. Scales and hairs densely disposed, length of hairs from 10 to    12 rows of scales. Tail divided in three color sections; proximal one sixth    the same color of posterior dorsum; middle section, corresponding to about half    of the tail length, black; terminal section, with almost one third of tail length,    white. </font></p>     <p><a name="fig02"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/paz/v45n5/a05fig02.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Skull (<a href="#fig03">Fig. 3</a>): Skull of    a medium sized Echimyinae. Nasals with moderate length and broad; rostrum short,    broad. Lateral wings of frontal developed forming a roof over the orbital region;    post-orbital process of zygoma blunt and weakly developed and formed by the    jugal. Lateral jugal fossae sharply defined, with anterior rim sharp pointed,    extending until the M1. Incisive foramen formed by premaxillar and maxillar,    breadth and length moderate; margins of incisive foramen forming well developed    ridges especially in the maxillar portion, which run parallels extending until    the DP4; maxillar between the ridges slightly depressed inward at the posterior    edge of the incisive foramen. Septum of incisive foramen formed mainly by premaxillar.    Palatal region long and slender; palatine extending up to M1. Pterygoyd fossae    slit-shaped; alisphenoid wide; alisphenoid canal completely developed, with    anterior and posterior openings differentiated; buccinator and masticator foramen    confluent; medium sized foramen ovale; maxillary vein passing through a foramen;    transverse canal well-developed. Bulla ovoid, with tiny stilliform process,    tegmen timpani short and wide; external auditory meatus separated from squamosal    bone by a wall of the petrosal. Upper molariforms tetralophodont, anteroloph    and protoloph connected lingually as well as the mesoloph and posteroloph. Lower    molars trilophodont; dp4 pentalophodont, with anterolophid and metalophid connected    both lingually and labially forming an anterofossetid; mesolophid isolated from    the other lophids. </font></p>     <p><a name="fig03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/paz/v45n5/a05fig03.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><B><I>Comparisons</I></B> </font></p>     <p><font size="2" face="Verdana"><I>Echimys vieirai</I> can be readily distinguished    from <I>E. chrysurus</I> by the presence of a dark maroon head stripe instead    of a white median head stripe, and by having a darker dorsum (<a href="#fig02">Fig.    2</a>). <I>E. vieirai</I> is distinguishable from <I>E. saturnus</I>    by possessing its head clearly darker than its dorsum,     while in <I>E. saturnus</I> the dorsal parts of head and body are mostly    black. <I>E. vieirai</I> is further distinguished from <I>E. saturnus</I>    by the color of the venter, which is uniformly grayish brown in the former and    white or spotted with white in the latter (Thomas, 1928). <I>E. semivillosus</I>    differs from <I>E. vieirai</I> by having its body coloration reddish brown    speckled with yellow and a scaly tail covered with reddish brown tiny hairs.    </font></p>     <p><font size="2" face="Verdana">The skulls of <I>E. vieirai</I> and <I>E. chrysurus</I>    are indistinguishable, but are different from those of other species in the    genus. <I>E. vieirai</I> and <I>E. chrysurus</I> skulls are distinguished    from those of <I>E. semivillosus</I> and <I>E. saturnus</I> by the    possession of a supraorbital process formed by squamosal anterior to frontal-parietal    suture, and a pentalophodont dp4 with a large central anterofossetid. Both species    have supraorbital process formed by frontal; <I>E. semivillosus</I> has    a tetralophodont dp4 and <I>E saturnus</I> a pentalophodont dp4 with small lingual    anterofossetid. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>DISCUSSION</B></font></p>     <p><font size="2" face="Verdana">The genus <I>Echimys</I> was created by Cuvier    (1809) to contain all spiny rats then known. After Allen's (1899) exclusion    of terrestrial forms from <I>Echimys,</I> the genus was restricted to arboreal    spiny rats, and other researchers followed his concept (e.g. Thomas, 1928; Tate,    1935 and Ellerman, 1940; Cabrera, 1961). Moojen (1952) was the first to recognize    further groups in <I>Echimys</I> when he allocated eastern Brazilian arboreal    spiny rats in <I>Phyllomys</I> Lund, 1839, but this was not adopted by other    authors, who mostly followed Tate (1935). Then Husson (1978) created the genus    <I>Makalata</I> to contain <I>Nelomys armatus</I> Geoffroy, 1838. Other authors    advanced the splitting of <I>Echimys,</I> by creating the genus <I>Callistomys</I>    (Emmons &amp; Vucetich, 1998) to include <I>Nelomys pictus</I> Pictet, 1843,    and by finally accepting Moojen's (1952) decision regarding <I>Phlyllomys</I>    (Emmons <I>et al.</I>, 2002; Leite, 2003). </font></p>     <p><font size="2" face="Verdana">These taxonomic changes make it necessary to    redefine <I>Echimys,</I> and comparisons with <I>Makalata</I> (<I>sensu</I>    Husson, 1978) is mandatory, since several species previously included in <I>Echimys</I>    must be transferred to that genus. </font></p>     <p><font size="2" face="Verdana">Husson (1978) has created <I>Makalata</I> to    contain Amazonian echimyids with folds in the cheek teeth opening lingually    instead of bucally; externally, the dorsal parts are dark yellowish brown, heavily    lined with black and speckled with black specially in the posterior third; the    sides of the body are lighter than the dorsum and ventral surface are pale yellowish    or grayish brown. We also included in the diagnosis of <I>Makalata</I> the following    characters: mistacial region pheomelanic (ferrugineous or rusty, from red to    orange), tail with short hair, making scales plainly visible; postorbital process    of zygoma formed mostly by jugal, squamosal projects below the postorbital process.    The spines are pale gray at the base, becoming darker distally. </font></p>     <p><font size="2" face="Verdana">The following nominal taxa match Husson's concept    of <I>Makalata</I> as modified here: didelphoides group – <I>Echimys didelphoides</I>    Desmarest, 1817; <I>Nelomys armatus</I> Geoffroy, 1838; <I>Loncheres obscura</I>    Wagner, 1840; <I>Loncheres macrura</I> Wagner, 1842; <I>Echimys guianae</I>    Thomas, 1888; <I>Loncheres castaneus</I> Allen &amp; Chapman, 1897, <I>Echimys    longirostris</I> Anthony, 1921; <I>Echimys rhipidurus</I> Thomas, 1928; <I>Echimys    occasius</I> Thomas, 1921; semivillosus group – <I>Nelomys semivillosus</I>    Geoffroy, 1838; <I>Loncheres punctatus</I> Thomas, 1899; <I>Echimys carrikeri</I>    Allen, 1911; <I>Loncheres flavidus</I> Hollister, 1914. </font></p>     <p><font size="2" face="Verdana">The remaining nominal taxa, <I>Myoxus chrysurus</I>    Zimmermann, 1780, <I>Echimys cristatus</I> Desmarest, 1817, <I>Loncheres grandis</I>    Wagner, 1845; <I>Echimys saturnus</I> Thomas, 1928, and <I>Loncheres paleacea</I>    Olfers, 1818, do not belong in <I>Makalata</I> and therefore remain in <I>Echimys.</I>    However, the morphology of <I>Loncheres grandis</I> and <I>Echimys saturnus,</I>    suggests that <I>Echimys</I> is a composite genus. <I>Loncheres grandis</I>    is in the proccess of being transferred to a new genus (Iack-Ximenes <I>et al.</I>,    in prep.) and the placement of <I>E. saturnus</I> is under evaluation by    one of us (G.E. Iack-Ximenes). </font></p>     <p><font size="2" face="Verdana"><I>Echimys</I> Cuvier, 1809 originally was described    including <I>Myoxus chrysurus</I> ("le rot a queue dor&eacute;e")    and "le rat epineux d'Azara" (Cuvier, 1809, 1812; in Cuvier's view    actually a <I>Makalata didelphoides,</I> see also Geoffroy, 1840) and Tate (1935)    has designated <I>Myoxus chrysurus</I> Zimmermann, 1780 as type species of <I>Echimys.</I>    The placement of <I>E. vieirai</I> in this genus can be justified because    the species shares most of its characters with <I>Echimys chrysurus,</I> the    type species of <I>Echimys.</I> Examination of <I>Echimys</I> type species led    us to consider <I>E. cristatus</I> as a junior synonym of <I>E. chrysurus</I>    and <I>E. paleaceus</I> as a valid species. </font></p>     <p><font size="2" face="Verdana">Our refined diagnosis of <I>Echimys</I> is: a    medium to large sized echimyine rat with long tricolored tail; white distal    portion of tail extending over more than one third of tail length; septum of    incisive foramen formed only by premaxillar; dp4 with anterolophid developed    and connected to metalophid evenly both lingually and labially; upper molars    with protoloph connected to protocone, deep groove formed by continuous hypoflexus    and metaflexus present; mesoloph connected with metaloph by hypocone; postorbital    process of zygoma formed by jugal. </font></p>     <p><font size="2" face="Verdana">We believe that the existence of only two specimen    of <I>Echimys vieirai,</I> the holotype and the paratype, is not problematic    to its recognition as a new species because the kind of variation we have described    above is consistent with what is known of the taxonomic variation among taxa    in this group of rodents. In all specimens (N=28) examined of <I>E. chrysurus</I>    the stripe of forehead is always present and always white. Only the width of    the stripe has varied, still slightly. Amazonian arboreal mammals frequently    differ in external characters, mostly hair color, in many groups from rodents    to primates. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"> Coat pattern and coloration can be distinctive,    as it occurs in many species of felids, primates and rodents. According to reaction-diffusion    model (Turing, 1952), there is a chemical mechanism for generating coat pattern    based on differential deposition of eumelanin and pheomelanin, ruled by morphogenes.    The mathematics to this model has been created by Turing (1952) and developed    by Murray (1981a,b, 1988, 1989). Although genes control the process of coat    pattern formation, the actual mechanism is still unknown. The use of coat patterns    to distinguish species can be supported, based on Turing's model, which supports    the idea that coat patterns are not aleatory. </font></p>     <p><font size="2" face="Verdana">Additionally, these arboreal taxa have frequently    been shown to be associated with different interfluvia in the Amazon basin,    and the geographic provenience of our specimen reinforces this pattern. </font></p>     <p><font size="2" face="Verdana"><I>Echimys,</I> as conceived by Cabrera (1961)    and Woods (1993), had a wide distribution ranging from Colombia, Venezuela,    and across the entire Amazon Basin to the Atlantic forest in eastern Brazil.    As here conceived, the distribution of the remaining species of <I>Echimys</I>    is presented in <a href="#fig01">Figure 1</a>. </font></p>     <p><font size="2" face="Verdana">Specimens examined. <I>Echimys</I> (N=30). <I>Echimys    chrysurus</I> (N=28): British Guyana: Potaro Highlands, 1300ft.: BMNH 7.6.10.4    (skin and skull); Supinaam river: BMNH 10.5.4.21 (skin and skull); Upper County    &#91;Upper Corentyn according Thomas, 1916&#93;: BMNH 43.8.19.14 (skin and skull); Surinam:    Surinam: MNK 1182 (skin and skull); Guyane Fran&ccedil;aise: Cayenne,: MNHN    19951398 (skin and skull) Holotype of <I>Echimys cristatus;</I> rive droite    du Petit Saut; Programme Faune Sauvage,: MNHN 19991082 (skin and skeleton);    Brazil: <U>Par&aacute;</U>: Camet&aacute;, Tocantins River: MZUSP: 4510, 4547,    4548, 4551, 4642 (skin and skull); 4557, 4558 (skin); MNRJ: 21504 (skin and    skull); NHRM A58 7194, A58 7195, A58 7196 (skin and skull); Par&aacute;: MZUSP:    25809 (skin); Utinga, Bel&eacute;m: MZUSP: 25810 (skin); BR010 km 8794:    MZUSP: 26200 (skull); Aur&aacute;, Bel&eacute;m: MNRJ: 3847 (skin and skull);    Peixe-Boi: BMNH: 14.6.10.1 (skin and skull); <U>Amap&aacute;</U>: Amapari River:    MNRJ: 21505 (skin and skull); Serra do Navio: MNRJ: 20411 (skin and skull).    "Par&aacute;, Brasilien": MNK: 1181 (skin and skull) Holotype of <I>Loncheres    paleaceus;</I> No locality: MZUSP: 4011 (skull); MNRJ: 60538 (skeleton). <I>Echimys    vieirai</I> (N=2): Brazil: <U>Par&aacute;</U>: Barreirinhas, Tapaj&oacute;s    River: MZUSP: Holotype: 26650 (skin and skull); MNRJ: Paratype: Virgem Guajar&aacute;,    Madeira river, Amazonas: MNRJ: 67549 (alcohol). <I>Echimys saturnus</I> (N=2):    Ecuador: near rio Napo, Ecuador. 3300 ft.: BMNH: 34.9.10.182 (skin and skull)    Holotype; Peru: Pisqui river: AMNH: 98261 (skin and skull, specimen not seen;    photographs by G. Carvalho examined). <I>Echimys semivillosus</I> (N=1): No    locality: ZSM: 1949<SUB>/</SUB>788 (skull); </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>ACKNOWLEDGEMENTS</B></font></p>     <p><font size="2" face="Verdana">We are indebted to the curators of the several    museums visited for their permission to study specimens under their care, namely    Dr. Jo&atilde;o A. Oliveira (Museu Nacional da Universidade Federal do Rio de    Janeiro); Dr. Paula Jenkins and Dr. Daphne Hills (Natural History Museum), Dr.    Peter Giere (Museum f&uuml;r Naturkunde), Dr. Olavi Gr&ouml;nwall (Naturhistorika    Riksmuseet), Dr. Richard.Kraft (Zoologische Staatsammlung M&uuml;nchen)and Dr.    Christiane Denys (Museum Nationale D'Histoire Naturelle). Research was supported    by Funda&ccedil;&atilde;o de Amparo &agrave; Pesquisa do Estado de S&atilde;o    Paulo (FAPESP; 99/079735, 98/122730, and 98/050757, Biota Program). We would    particularly like to thank G. Carvalho for the photographs of <I>E. saturnus</I>    and Dr. M.G. Vucetich for advice concerning dental nomenclature. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>REFERENCES</B></font></p>     <!-- ref --><p><font size="2" face="Verdana">Allen, J.A. 1899. The generic names <I>Echimys</I>    and <I>Loncheres. Bulletin of the American Museum of Natural History,</I> 12:2572-64.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000082&pid=S0031-1049200500050000100001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Butler, P.M. 1985. Homologies of molar cusps    and crests, and their bearing on assessments of rodent morphology. In: Luckett,    W.P. &amp; Hartenberger, J.-L. (Eds.), <I>Evolutionary relationships among rodents:    a multidisciplinary analysis</I>. Plenum Press, New York. p.381-401. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000083&pid=S0031-1049200500050000100002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana"> Cabrera, A. 1961. Cat&aacute;logo de los Mam&iacute;feros    de Am&eacute;rica del Sur. <I>Revista del Museo Argentino de Ciencias Naturales    "Bernardino Rivadavia",</I> 4(part 2):309-732. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000084&pid=S0031-1049200500050000100003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Carvalho, C.T. de &amp; Toccheton, A.J. 1969.    Mam&iacute;feros do nordeste do Par&aacute;. <I>Revista de Biologia Tropical,</I>    15(2):215-226. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000085&pid=S0031-1049200500050000100004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Carvalho, G. 2000. Substitution of the deciduous    premolar in <I>Chaetomys subspinosus</I> (Olfers, 1818) (Hystricognathi, Rodentia)    and its taxonomic implications. <I>Zeitschrift f&uuml;r Saugertierekunde,</I>    65:187-190. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000086&pid=S0031-1049200500050000100005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Cuvier, G.F. 1809. Extrait des premiers M&eacute;moires    de M.F. Cuvier, sur les dents des mammif&egrave;res consid&eacute;r&eacute;s    comme charact&egrave;res g&eacute;nerics. <I>Nouveau Bulletin des Sciences,    par la Soci&eacute;t&eacute; Philomathique,</I> 1(24):394-395. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000087&pid=S0031-1049200500050000100006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Cuvier, G.F. 1812. Essai sur de nouveaux caract&egrave;res    pour les genres des Mammif&egrave;res. <I>Annales du Mus&eacute;um d'Histoire    Naturelle,</I> 19:268-295. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000088&pid=S0031-1049200500050000100007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Ellerman, J.R. 1940. <I>The families and genera    of living rodents : with a list of named forms (1758-1936). Volume    I Rodents other than Muridae.</I> British Museum of Natural History, London.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000089&pid=S0031-1049200500050000100008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Emmons, L.H. &amp; Feer, F. 1997. <I>Neotropical    Rainforest Mammals: a field Guide.</I> 2. ed. University of Chicago Press, Chicago.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000090&pid=S0031-1049200500050000100009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Emmons, L.H.; Leite, Y.R.; Kock, D. &amp; Costa,    L.P. 2002. A review of the named forms of <I>Phyllomys</I> (Rodentia, Echimyidae),    with the description of a new species from coastal Brazil. <I>American Museum    Novitates,</I> 3380:1-40. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000091&pid=S0031-1049200500050000100010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Emmons, L.H. &amp; Vucetich, M.G. 1998. The identity    of Winge's <I>Lasiuromys villosus</I> and the description of a new genus of    Echimyid rodent (Rodentia: Echimmyidae). <I>American Museum Novitates,</I> 3223:1-12.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000092&pid=S0031-1049200500050000100011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Eisenberg, J.F. 1989. <I>Mammals of Neotropics.    Volume. 1. The Northern Tropics. Panama, Colombia, Venezuela, Guyana,    Suriname, French Guiana</I>. University of Chicago Press, Chicago. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000093&pid=S0031-1049200500050000100012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Eisenberg, J.F. &amp; Redford, K.H. 1999. <I>Mammals    of Neotropics. Volume 3. The Central Tropics. Ecuador, Peru, Bolivia, Brazil</I>.    University of Chicago Press, Chicago. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000094&pid=S0031-1049200500050000100013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Flynn, L.J.; Jacobs, L.L. &amp; Cheema, I.U.    1986. Baluchimyinae, A new Ctenodactyloid Rodent Subfamily from the Miocene    of Baluchistan. <I>American Museum Novitates,</I> 2891:1-25. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000095&pid=S0031-1049200500050000100014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Geoffroy, I. 1838. Notices sur les Rongeurs &eacute;pineux    d&eacute;sign&eacute;s par les auteurs sous les noms d'<I>Echimys, Loncheres,    Heteromys</I> et <I>Nelomys. Annales des Sciences Naturelles, Paris, Second    S&eacute;rie Zoologie, </I>10:122-127. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000096&pid=S0031-1049200500050000100015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Geoffroy, I. 1840. Notices sur les Rongeurs &eacute;pineux    d&eacute;sign&eacute;s par les auteurs sous les noms d'<I>Echimys, Loncheres,    Heteromys</I> et <I>Nelomys. Magasin de Zoologie Second S&eacute;rie, </I>2:1-57.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000097&pid=S0031-1049200500050000100016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Husson, A.M. 1978. The Mammals of Suriname. <I>Zoologische    Monographie&euml;n van het Rijksmuseum van Natuurlijke Historie,</I> 2:1-569.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000098&pid=S0031-1049200500050000100017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Julio, C.E.A. 2003. Revis&atilde;o do g&ecirc;nero    <I>Anisocerus</I> Lepeletier &amp; Audinet-Serville, 1830 (Coleoptera, Cerambycidae,    Lamiinae, Anisocerini). <I>Revista Brasileira de Entomologia,</I> 47(2):149-153.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000099&pid=S0031-1049200500050000100018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Lavocat, R. 1976. Rongeurs caviomorphes de l'Oligoc&egrave;ne    de Bolivie. II Rongeurs du Bassin Deseadien de Salla-Luribay. <I>Palaeovertebrata,</I>    7(3):15-90. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000100&pid=S0031-1049200500050000100019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Leite, Y.L.R. 2003. Evolution and Systematics    of the Atlantic tree rats, genus <I>Phyllomys</I> (Rodentia, Echimyidae) with    description of two new species. <I>University of California Publications in    Zoology,</I> 132:1-118. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000101&pid=S0031-1049200500050000100020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Mauffrey, J.F. &amp; Catzeflis, F. 2003. Ecological    and isotopic discrimination of syntopic rodents in a neotropical rain forest    of French Guiana. <I>Journal of Tropical Ecology,</I> 19:209-214. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000102&pid=S0031-1049200500050000100021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Miles, M.A.; de Souza, A.A. &amp; P&oacute;voa,    M.M. 1981. Mammal tracking and nest location in Brazilian forest with an improved    spool-and-line device. <I>Journal of Zoology,</I> 195:331-347. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000103&pid=S0031-1049200500050000100022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Moojen, J. 1952. <I>Os roedores do Brasil.</I>    Biblioteca Cient&iacute;fica Brasileira, S&eacute;re A-II. Instituto Nacional    do Livro, Rio de Janeiro. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000104&pid=S0031-1049200500050000100023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Murray J.D. 1981a. On pattern formation mechanisms    for lepidopteran wing patterns and mammalian coat markings. <I>Philosophical    Transactions of the Royal Society (B), Biological Sciences,</I> 295:473-496.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000105&pid=S0031-1049200500050000100024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Murray J.D. 1981b. A pre-pattern formation mechanism    for animal coat markings. <I>Journal of Theoretical Biology,</I> 88:161-199.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000106&pid=S0031-1049200500050000100025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Murray J.D. 1988. How the leopard gets its spots.    <I>Scientific American,</I> 258(3):62-69. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000107&pid=S0031-1049200500050000100026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Murray, J.D. 1989. <I>Mathematical Biology.</I>    Springer-Verlag, Heidelberg. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000108&pid=S0031-1049200500050000100027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Oliveira, T.G. &amp; Mesquita, E.R.L. 1998. Notes    on the distribution of the white faced tree rat, <I>Echimys chrysurus</I> (Rodentia,    Echimyidae) in northeastern Brazil. <I>Mammalia,</I> 62(2):305-306. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000109&pid=S0031-1049200500050000100028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Pine, R.H. 1973. Mammals (exclusive of bats)    of Bel&eacute;m, Par&aacute;, Brazil. <I>Acta Amaz&ocirc;nica,</I> 3(2):1-79.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000110&pid=S0031-1049200500050000100029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Tate, G.H.H. 1935. The taxonomy of the genera    of Neotropical hystricoid rodents. <I>Bulletin of the American Museum of Natural    History,</I> 68:295-447. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000111&pid=S0031-1049200500050000100030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Thomas, O. 1910 Mammals from the River Supinaam,    Demerara, presented by Mr. F.V. McConnell to the British Museum. <I>Annals and    Magazine of Natural History,</I> Series 8(6):111-14. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S0031-1049200500050000100031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Thomas, O. 1928. A new <I>Echimys</I> from Eastern    Ecuador. <I>Annals and Magazine of Natural History,</I> Series 10(2):409-410.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S0031-1049200500050000100032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Turing, A.M. 1952. The chemical basis of morphogenesis.    <I>Philosophical Transactions of the Royal Society of London,</I> 237:37-72.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000114&pid=S0031-1049200500050000100033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Wahlert, J.H. 1974. The cranial foramina of protrogomorphous    rodents; an anatomical and phylogenetic study. <I>Bulletin of the Museum of    Comparative Zoology, </I>Harvard, 113:113-214. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S0031-1049200500050000100034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Wahlert, J.H. 1983. Relationships of Florentiamyidae    (Rodentia, Geomyidae) based on cranial and dental morphology. <I>American Museum    Novitates,</I> 2769:1-23. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S0031-1049200500050000100035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Wahlert, J.H. 1985. Cranial foramina of rodents.    In: Luckett, W.P. &amp; Hartenberger, J.L. (Eds.). <I>Evolutionary relationships    among rodents: a multidisciplinary analysis.</I> Plenum Press, New York. p.311-333.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S0031-1049200500050000100036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Wolfheim, J.H. 1983. <I>Alouatta seniculus In:    Primates of the World Distribution, Abundance, and Conservation.</I> University    of Washington Press, Seattle. p.228-236. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S0031-1049200500050000100037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Woods, C.A. 1993. Hystricognathi. In: Wilson,    D.E. &amp; Reeder, D.A. (Eds.). <I>Mammals species of the world. A taxonomic    and geographic reference.</I> 2. ed. Smithsonian Institution Press/ American    Society of Mammalogists, Washington. p.771-806. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000119&pid=S0031-1049200500050000100038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Woods, C.A. &amp; Howland, E.B. 1979. Adaptive    radiation in capromyid rodents. <I>Journal of Mammalogy,</I> 60:95-115. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S0031-1049200500050000100039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Recebido em 26.01.2004    <BR>   Aceito em 04.08.2004 </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>APPENDIX</B></font></p>     <p><b><font size="2" face="Verdana">Gazetteer</font></b></p>     <p><font size="2" face="Verdana"><U>BRAZIL</U>: <U>Amap&aacute;</U>: 1 –    rio Amapari. 00º45'N 51º32'W; 2 – Serra do Navio. 00º53'44"N    52º00'08"W; <U>Amazonas</U>: 3 – Virgem Guajar&aacute;, Amazonas    Not located. Here considered as Guajar&aacute;. 04º19'44"S <a name="tx01"></a>59º42'26"W<a href="#nt01"><sup>*1</SUP></a>;    <U>Maranh&atilde;o</U>: 4 – Vargem Grande. 03º30'S <a name="tx02"></a>43º55'W<a href="#nt02"><sup>*2</SUP></a>;    <U>Par&aacute;</U>: 5 – Barreirinhas, rio Tapaj&oacute;s. 04º25'S    56º13'W; 6 – BR010 km 8794. <I>circa</I>. 02º10'S 47º35'W.;    7 – Camet&aacute;, rio Tocantins. 02º15'S 49º31'W.; 8 –    Peixe-Boi. 1º11'32"S 47º18'50"W; 9 – Utinga, Bel&eacute;m    (as Bel&eacute;m). 01º26'S 48º29'W; <U>FRENCH GUYANA</U>: 10 –    Cayenne, Guyana Fran&ccedil;aise. 4º56'00"N 52º00'00"W;    11 – rive droite du Petit Saut; Programme Faune Sauvage, Guyane Fran&ccedil;aise.    05º04'N 53º03'W; 12 – Nouragues. 4º05'N <a name="tx03"></a>52º40'W<a href="#nt03"><sup>*3</SUP></a>;    <U>GUYANA</U>: 13 – Potaro Highlands, 1300ft. 4º25'00"N 58º16'00"N/5º22'00"N    58º54'00"W; 14 – Supinaam river, <a name="tx04"></a>1300ft<a href="#nt04"><sup>*4</SUP></a>.    6º59'00"N 58º31'00"W; Upper County &#91;Sir R. Schomburgh&#93;.    <U>Not located</U>; <U>SURINAM</U>: Surinam. &#91;Eimbeck&#93;. <U>Not located</U>;    15 – Agricultural Experimental Station (Cultuurtuin), Paramaribo 5º50'00"N    5<a name="tx05"></a>5º10'00"W<a href="#nt05"><sup>*5</SUP></a>;    16 – Bedoti, south of Gansee on West Bank of Suriname River, locality    now submerged by the Brokopondo, Lake, Brokopondo District. 4º13'00"N    55º53'00"W<a href="#nt05"><sup>*5</sup></a>; 17 – Groot Henarpolder    South east of Nieuw Nickerie, northwestern Nickerie district. 5º52'00"N    56º52'00"W<a href="#nt05"><sup>*5</sup></a>; 18 – Republiek,    about 35km South of Paramaribo, Para District. 5º30'00"N 55º12"00"W<a href="#nt05"><sup>*5</sup></a>;    19 – Zuid River, near Kayserberg Airstrip, southern Nickerie District    3º20'00"N 56º49'00"W<a href="#nt05"><sup>*5</sup></a>. </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><a name="nt01" id="nt01"></a><a href="#tx01">*1</a>    The specimen MNRJ 67549 was collected in Virgem Guajar&aacute;, Amazonas by    A. Parko, collector number 16, with no further information in the label. A Parko    was a professional collector of Museu Nacional, who lived in Borba and Benjamin    Constant in Amazonas State, Brazil. A considerable collection of reptiles, amphibians,    mammals and insects, and was made in both localities and Manaus. The locality    Virgem Guajar&aacute; was not located. However, Julio (2003) records Jaragu&aacute;    near to Borba, where A. Parko has collected 2 males of <I>Anisocerus stellatus</I>    (Coeloptera; Cerambycidae) in VII.1943, and a large collection of Cerambycidae    was collected in Guajar&aacute;-Mirim. Five localities named Guajar&aacute;    are near to Borba: Guajar&aacute; 02º58'00"S 57º40'00"W    (BR 04; SA2110); Guajar&aacute; 04º07'29"S 58º38'36"W (BR    04; SB2101); Igarape do Guajar&aacute; 04º19'10"S 59º44'19"W    (BR 04; SB2101); Ilha Guajar&aacute; 04º19'44"S 59º42'26"W    (BR 04; SB2101); Guajar&aacute; 05º32'00"S 59º33'00"W (BR    04; SB2105). Since no other information is available, we arbitrarily choose    Guajar&aacute; (04º07'29"S 58º38'36"W).    ]]></body>
+<body><![CDATA[<br>   <a name="nt02"></a><a href="#tx02">*2</a> Locality taken of Oliveira &amp; Mesquita    (1998). Four specimens were collected.    <br>   <a name="nt03"></a><a href="#tx03">*3</a> Locality taken of Mauffrey &amp; Catzeflis    (2003).    <br>   <a name="nt04"></a><a href="#tx04">*4</a> Given in CIA Gazetteer as Supenaam    river. See also Thomas (1910) and Wolfheim (1983).    <br>   <a name="nt05"></a><a href="#tx05">*5</a> Localities taken of Husson (1978),    who examined 13 specimens but only eight with skins. </font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Allen]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The generic names Echimys and Loncheres]]></article-title>
+<source><![CDATA[Bulletin of the American Museum of Natural History]]></source>
+<year>1899</year>
+<volume>12</volume>
+<page-range>2572-64</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Butler]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Homologies of molar cusps and crests, and their bearing on assessments of rodent morphology]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Luckett]]></surname>
+<given-names><![CDATA[W.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hartenberger]]></surname>
+<given-names><![CDATA[J.-L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Evolutionary relationships among rodents: a multidisciplinary analysis]]></source>
+<year>1985</year>
+<page-range>381-401</page-range><publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Plenum Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cabrera]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Catálogo de los Mamíferos de América del Sur]]></article-title>
+<source><![CDATA[Revista del Museo Argentino de Ciencias Naturales "Bernardino Rivadavia"]]></source>
+<year>1961</year>
+<volume>4</volume>
+<page-range>309-732</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carvalho]]></surname>
+<given-names><![CDATA[C.T. de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Toccheton]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Mamíferos do nordeste do Pará]]></article-title>
+<source><![CDATA[Revista de Biologia Tropical]]></source>
+<year>1969</year>
+<volume>15</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>215-226</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carvalho]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Substitution of the deciduous premolar in Chaetomys subspinosus (Olfers, 1818) (Hystricognathi, Rodentia) and its taxonomic implications]]></article-title>
+<source><![CDATA[Zeitschrift für Saugertierekunde]]></source>
+<year>2000</year>
+<volume>65</volume>
+<page-range>187-190</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cuvier]]></surname>
+<given-names><![CDATA[G.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[Extrait des premiers Mémoires de M.F. Cuvier, sur les dents des mammifères considérés comme charactères génerics]]></article-title>
+<source><![CDATA[Nouveau Bulletin des Sciences, par la Société Philomathique]]></source>
+<year>1809</year>
+<volume>1</volume>
+<numero>24</numero>
+<issue>24</issue>
+<page-range>394-395</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cuvier]]></surname>
+<given-names><![CDATA[G.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[Essai sur de nouveaux caractères pour les genres des Mammifères]]></article-title>
+<source><![CDATA[Annales du Muséum d'Histoire Naturelle]]></source>
+<year>1812</year>
+<volume>19</volume>
+<page-range>268-295</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ellerman]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[families and genera of living rodents: with a list of named forms (1758-1936]]></source>
+<year>1940</year>
+<volume>I</volume>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[British Museum of Natural History]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Emmons]]></surname>
+<given-names><![CDATA[L.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Feer]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Neotropical Rainforest Mammals: a field Guide]]></source>
+<year>1997</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Emmons]]></surname>
+<given-names><![CDATA[L.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Leite]]></surname>
+<given-names><![CDATA[Y.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kock]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Costa]]></surname>
+<given-names><![CDATA[L.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A review of the named forms of Phyllomys (Rodentia, Echimyidae), with the description of a new species from coastal Brazil]]></article-title>
+<source><![CDATA[American Museum Novitates]]></source>
+<year>2002</year>
+<volume>3380</volume>
+<page-range>1-40</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Emmons]]></surname>
+<given-names><![CDATA[L.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vucetich]]></surname>
+<given-names><![CDATA[M.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The identity of Winge's Lasiuromys villosus and the description of a new genus of Echimyid rodent (Rodentia: Echimmyidae)]]></article-title>
+<source><![CDATA[American Museum Novitates]]></source>
+<year>1998</year>
+<volume>3223</volume>
+<page-range>1-12</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Eisenberg]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mammals of Neotropics: Volume. 1. The Northern Tropics. Panama, Colombia, Venezuela, Guyana, Suriname, French Guiana]]></source>
+<year>1989</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Eisenberg]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Redford]]></surname>
+<given-names><![CDATA[K.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mammals of Neotropics: Volume 3. The Central Tropics. Ecuador, Peru, Bolivia, Brazil]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Flynn]]></surname>
+<given-names><![CDATA[L.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jacobs]]></surname>
+<given-names><![CDATA[L.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cheema]]></surname>
+<given-names><![CDATA[I.U.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Baluchimyinae, A new Ctenodactyloid Rodent Subfamily from the Miocene of Baluchistan]]></article-title>
+<source><![CDATA[American Museum Novitates]]></source>
+<year>1986</year>
+<volume>2891</volume>
+<page-range>1-25</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Geoffroy]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="de"><![CDATA[Notices sur les Rongeurs épineux désignés par les auteurs sous les noms d'Echimys, Loncheres, Heteromys et Nelomys]]></article-title>
+<source><![CDATA[Annales des Sciences Naturelles]]></source>
+<year>1838</year>
+<volume>10</volume>
+<page-range>122-127</page-range><publisher-loc><![CDATA[Paris ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Geoffroy]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[Notices sur les Rongeurs épineux désignés par les auteurs sous les noms d'Echimys, Loncheres, Heteromys et Nelomys]]></article-title>
+<source><![CDATA[Magasin de Zoologie Second Série]]></source>
+<year>1840</year>
+<volume>2</volume>
+<page-range>1-57</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Husson]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Mammals of Suriname]]></article-title>
+<source><![CDATA[Zoologische Monographieën van het Rijksmuseum van Natuurlijke Historie]]></source>
+<year>1978</year>
+<volume>2</volume>
+<page-range>1-569</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Julio]]></surname>
+<given-names><![CDATA[C.E.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Revisão do gênero Anisocerus Lepeletier & Audinet-Serville, 1830 (Coleoptera, Cerambycidae, Lamiinae, Anisocerini)]]></article-title>
+<source><![CDATA[Revista Brasileira de Entomologia]]></source>
+<year>2003</year>
+<volume>47</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>149-153</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lavocat]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[Rongeurs caviomorphes de l'Oligocène de Bolivie: II Rongeurs du Bassin Deseadien de Salla-Luribay]]></article-title>
+<source><![CDATA[Palaeovertebrata]]></source>
+<year>1976</year>
+<volume>7</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>15-90</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Leite]]></surname>
+<given-names><![CDATA[Y.L.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evolution and Systematics of the Atlantic tree rats, genus Phyllomys (Rodentia, Echimyidae) with description of two new species]]></article-title>
+<source><![CDATA[University of California Publications in Zoology]]></source>
+<year>2003</year>
+<volume>132</volume>
+<page-range>1-118</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mauffrey]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Catzeflis]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecological and isotopic discrimination of syntopic rodents in a neotropical rain forest of French Guiana]]></article-title>
+<source><![CDATA[Journal of Tropical Ecology]]></source>
+<year>2003</year>
+<volume>19</volume>
+<page-range>209-214</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Miles]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[de Souza]]></surname>
+<given-names><![CDATA[A.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Póvoa]]></surname>
+<given-names><![CDATA[M.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mammal tracking and nest location in Brazilian forest with an improved spool-and-line device]]></article-title>
+<source><![CDATA[Journal of Zoology]]></source>
+<year>1981</year>
+<volume>195</volume>
+<page-range>331-347</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Moojen]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os roedores do Brasil]]></source>
+<year>1952</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto Nacional do Livro]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Murray]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On pattern formation mechanisms for lepidopteran wing patterns and mammalian coat markings]]></article-title>
+<source><![CDATA[Philosophical Transactions of the Royal Society (B), Biological Sciences]]></source>
+<year>1981</year>
+<month>a</month>
+<volume>295</volume>
+<page-range>473-496</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Murray]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A pre-pattern formation mechanism for animal coat markings]]></article-title>
+<source><![CDATA[Journal of Theoretical Biology]]></source>
+<year>1981</year>
+<month>b</month>
+<volume>88</volume>
+<page-range>161-199</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Murray]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[How the leopard gets its spots]]></article-title>
+<source><![CDATA[Scientific American]]></source>
+<year>1988</year>
+<volume>258</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>62-69</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Murray]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mathematical Biology]]></source>
+<year>1989</year>
+<publisher-loc><![CDATA[Heidelberg ]]></publisher-loc>
+<publisher-name><![CDATA[Springer-Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Oliveira]]></surname>
+<given-names><![CDATA[T.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mesquita]]></surname>
+<given-names><![CDATA[E.R.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Notes on the distribution of the white faced tree rat, Echimys chrysurus (Rodentia, Echimyidae) in northeastern Brazil]]></article-title>
+<source><![CDATA[Mammalia]]></source>
+<year>1998</year>
+<volume>62</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>305-306</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pine]]></surname>
+<given-names><![CDATA[R.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mammals (exclusive of bats) of Belém, Pará, Brazil]]></article-title>
+<source><![CDATA[Acta Amazônica]]></source>
+<year>1973</year>
+<volume>3</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>1-79</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tate]]></surname>
+<given-names><![CDATA[G.H.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The taxonomy of the genera of Neotropical hystricoid rodents]]></article-title>
+<source><![CDATA[Bulletin of the American Museum of Natural History]]></source>
+<year>1935</year>
+<volume>68</volume>
+<page-range>295-447</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[1910 Mammals from the River Supinaam, Demerara, presented by Mr. F.V. McConnell to the British Museum]]></article-title>
+<source><![CDATA[Annals and Magazine of Natural History]]></source>
+<year></year>
+<volume>8</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>111-14</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A new Echimys from Eastern Ecuador]]></article-title>
+<source><![CDATA[Annals and Magazine of Natural History]]></source>
+<year>1928</year>
+<volume>10</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>409-410</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Turing]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The chemical basis of morphogenesis]]></article-title>
+<source><![CDATA[Philosophical Transactions of the Royal Society of London]]></source>
+<year>1952</year>
+<volume>237</volume>
+<page-range>37-72</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wahlert]]></surname>
+<given-names><![CDATA[J.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The cranial foramina of protrogomorphous rodents; an anatomical and phylogenetic study]]></article-title>
+<source><![CDATA[Bulletin of the Museum of Comparative Zoology]]></source>
+<year>1974</year>
+<volume>113</volume>
+<page-range>113-214</page-range><publisher-loc><![CDATA[Harvard ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wahlert]]></surname>
+<given-names><![CDATA[J.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Relationships of Florentiamyidae (Rodentia, Geomyidae) based on cranial and dental morphology]]></article-title>
+<source><![CDATA[American Museum Novitates]]></source>
+<year>1983</year>
+<volume>2769</volume>
+<page-range>1-23</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wahlert]]></surname>
+<given-names><![CDATA[J.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cranial foramina of rodents]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Luckett]]></surname>
+<given-names><![CDATA[W.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hartenberger]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Evolutionary relationships among rodents: a multidisciplinary analysis]]></source>
+<year>1985</year>
+<page-range>311-333</page-range><publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Plenum Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wolfheim]]></surname>
+<given-names><![CDATA[J.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Alouatta seniculus]]></article-title>
+<source><![CDATA[Primates of the World Distribution, Abundance, and Conservation]]></source>
+<year>1983</year>
+<page-range>228-236</page-range><publisher-loc><![CDATA[Seattle ]]></publisher-loc>
+<publisher-name><![CDATA[University of Washington Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Woods]]></surname>
+<given-names><![CDATA[C.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Hystricognathi]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Wilson]]></surname>
+<given-names><![CDATA[D.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reeder]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mammals species of the world: A taxonomic and geographic reference]]></source>
+<year>1993</year>
+<edition>2</edition>
+<page-range>771-806</page-range><publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[Smithsonian Institution PressAmerican Society of Mammalogists]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Woods]]></surname>
+<given-names><![CDATA[C.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Howland]]></surname>
+<given-names><![CDATA[E.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Adaptive radiation in capromyid rodents]]></article-title>
+<source><![CDATA[Journal of Mammalogy]]></source>
+<year>1979</year>
+<volume>60</volume>
+<page-range>95-115</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>
